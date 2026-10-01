@@ -1,5 +1,159 @@
 {
-  "scannedAt": null,
+  "scannedAt": "2026-10-01T20:45:44.807Z",
   "source": "Steam featured New Releases list",
-  "games": []
+  "games": [
+    {
+      "id": 1130380,
+      "name": "OZARK",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1130380/f7c97c8df77d52cce3e165cb94331514d954ed13/header.jpg?t=1790883264",
+      "release": "Oct 1, 2026",
+      "comingSoon": false,
+      "price": "$9.98",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+      ],
+      "modes": [
+        "Co-op",
+        "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5029890,
+      "name": "KKUL-TTEOK!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5029890/551dc18ef3909defc6a93ad9f3ea16de37afb515/header.jpg?t=1790877808",
+      "release": "Oct 1, 2026",
+      "comingSoon": false,
+      "price": "$4.54",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+      ],
+      "modes": [
+        "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 4962560,
+      "name": "Eclesiar",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4962560/0120140eb1b63f40d0f71afe493c9dad7ce3759b/header.jpg?t=1790873747",
+      "release": "Oct 1, 2026",
+      "comingSoon": false,
+      "price": "Free",
+      "genres": [
+        "Indie",
+        "Massively Multiplayer",
+        "RPG"
+      ],
+      "modes": [
+        "PvP",
+        "MMO",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 2407780,
+      "name": "Gus Game",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2407780/3d1b74eeb6bb4efd8853312ae7fce550ee2998f2/header.jpg?t=1790873733",
+      "release": "Oct 1, 2026",
+      "comingSoon": false,
+      "price": "Free",
+      "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+      ],
+      "modes": [
+        "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 3919140,
+      "name": "Sous Raccoon",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3919140/55105270f705c6d23d0091a97ed0cf46d8be5c05/header.jpg?t=1790882270",
+      "release": "Oct 1, 2026",
+      "comingSoon": false,
+      "price": "$11.24",
+      "genres": [
+        "Action",
+        "Indie"
+      ],
+      "modes": [
+        "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 1560480,
+      "name": "Huckleberry Fields Forever",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1560480/df5b31e0e5efd507a91cba151e339df6d091c06b/header_alt_assets_0.jpg?t=1790870096",
+      "release": "Oct 1, 2026",
+      "comingSoon": false,
+      "price": "Free",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+      ],
+      "modes": [
+        "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 4643400,
+      "name": "Floppy Desk",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4643400/bcd5d3019d6321efd6e81370ce8c2f521ad56a96/header.jpg?t=1790866870",
+      "release": "Oct 1, 2026",
+      "comingSoon": false,
+      "price": "$2.09",
+      "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+      ],
+      "modes": [
+        "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5220200,
+      "name": "Rever4 OCHIRO",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5220200/80cb210471343dcd5966df11c0102c82b715bdd3/header.jpg?t=1790866817",
+      "release": "Oct 1, 2026",
+      "comingSoon": false,
+      "price": "Free",
+      "genres": [
+        "Casual",
+        "Indie",
+        "Free To Play"
+      ],
+      "modes": [
+        "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 3929260,
+      "name": "What Is The Ghost",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3929260/fb7237d1eea785f49d11f098f742ecd12386c7cc/header.jpg?t=1790882763",
+      "release": "Oct 1, 2026",
+      "comingSoon": false,
+      "price": "$5.99",
+      "genres": [
+        "Action",
+        "Indie"
+      ],
+      "modes": [
+        "Co-op",
+        "Multi-player"
+      ]
+    }
+  ]
 }
