@@ -1,0 +1,33 @@
+name: Daily Steam scan
+
+on:
+  schedule:
+    - cron: "17 12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out main
+        uses: actions/checkout@v7
+        with:
+          ref: main
+
+      - name: Scrape Steam new releases
+        run: node scripts/scrape-new-releases.mjs
+
+      - name: Commit the daily snapshot
+        run: |
+          if git diff --quiet -- data/new-releases.json; then
+            echo "The Steam snapshot did not change."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/new-releases.json
+          git commit -m "Refresh daily Steam new releases"
+          git push

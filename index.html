@@ -28,6 +28,7 @@ input{cursor:text;flex:1;min-width:160px}
 .t{font-size:12px;border:1px solid var(--line);border-radius:99px;padding:1px 8px}
 .t.mode{border-color:var(--acc);color:var(--acc)}
 .msg{text-align:center;color:var(--mut);padding:36px 0}
+.scan{color:var(--mut);font-size:12px;text-align:right;min-height:18px;margin:0 0 4px}
 </style>
 </head>
 <body>
@@ -37,6 +38,7 @@ input{cursor:text;flex:1;min-width:160px}
   <div class="bar" id="lists"></div>
   <div class="bar" id="modes"></div>
   <div class="bar"><input id="q" placeholder="Search these results"></div>
+  <p id="scan" class="scan" aria-live="polite"></p>
   <div id="out" class="msg">Loading…</div>
 </main>
 <script>
@@ -61,7 +63,31 @@ function draw(){
 }
 async function load(){
   $("out").className="msg";$("out").textContent="Loading…";
-  try{const r=await fetch("/api/games?list="+list);const j=await r.json();games=j.games||[];if(j.error)throw 0;draw()}
+  $("scan").textContent="";
+  try{
+    let j;
+    if(list==="new_releases"){
+      try{
+        const r=await fetch("/data/new-releases.json");
+        if(r.ok){
+          const snapshot=await r.json();
+          if(snapshot.scannedAt&&Array.isArray(snapshot.games)){
+            j=snapshot;
+            const when=new Date(snapshot.scannedAt).toLocaleString(undefined,{dateStyle:"medium",timeStyle:"short"});
+            $("scan").textContent="Daily Steam scan · last checked "+when;
+          }
+        }
+      }catch(e){}
+    }
+    if(!j){
+      const r=await fetch("/api/games?list="+list);
+      j=await r.json();
+      if(list==="new_releases")$("scan").textContent="Daily Steam scan runs at 12:17 UTC · showing live results until the first scan.";
+    }
+    games=j.games||[];
+    if(j.error)throw 0;
+    draw();
+  }
   catch(e){$("out").textContent="Couldn't reach Steam right now. Try again in a minute."}
 }
 document.addEventListener("click",e=>{
