@@ -1,132 +1,17 @@
 {
-  "scannedAt": "2026-10-02T17:52:52.363Z",
+  "scannedAt": "2026-10-03T16:18:02.843Z",
   "source": "Steam featured New Releases list",
   "games": [
     {
-      "id": 4660280,
-      "name": "DUAL PROTOCOL: The Case of Eva & Miles",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4660280/706812c0feb71db9f9a24692a907a01f0ccd7be9/header.jpg?t=1790956828",
-      "release": "Oct 2, 2026",
+      "id": 4899730,
+      "name": "Intercept Line",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4899730/4e9bf84f7c5a7357634d0061df07d6bff77f8e56/header.jpg?t=1791029094",
+      "release": "Oct 3, 2026",
       "comingSoon": false,
-      "price": "$6.74",
-      "genres": [
-        "Casual"
-      ],
-      "modes": [
-        "Co-op",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 4705440,
-      "name": "Coloniam",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4705440/f1f1b725c1e4d5d3745531f521388fc403b4518e/header.jpg?t=1790956684",
-      "release": "Oct 2, 2026",
-      "comingSoon": false,
-      "price": "Free",
-      "genres": [
-        "Massively Multiplayer",
-        "Strategy",
-        "Free To Play"
-      ],
-      "modes": [
-        "PvP",
-        "MMO",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 4858900,
-      "name": "MAMIO : Don't Fall !",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4858900/9ea02f2ec8bf61d8b6b0a6a636df415d983aefbd/header.jpg?t=1790956172",
-      "release": "Oct 2, 2026",
-      "comingSoon": false,
-      "price": "$3.39",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "modes": [
-        "Co-op",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 3737680,
-      "name": "Bloodspill",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3737680/d194511d513f4ec90c0cabd63fa60222943fb128/header.jpg?t=1790950004",
-      "release": "Oct 2, 2026",
-      "comingSoon": false,
-      "price": "$3.60",
-      "genres": [
-        "Action",
-        "Indie"
-      ],
-      "modes": [
-        "Co-op",
-        "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5012840,
-      "name": "Tooth for Tooth",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5012840/e5d711f5b699b5bea6df91a03b96f71ca84eb397/header.jpg?t=1790949621",
-      "release": "Oct 2, 2026",
-      "comingSoon": false,
-      "price": "$2.99",
-      "genres": [
-        "Action",
-        "Indie"
-      ],
-      "modes": [
-        "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5153210,
-      "name": "punkt",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5153210/3c929fa0e1ed9b1f5b5dc916ac440b975588bbb0/header.jpg?t=1790944921",
-      "release": "Oct 2, 2026",
-      "comingSoon": false,
-      "price": "Free",
-      "genres": [
-        "Action",
-        "Casual",
-        "Indie"
-      ],
-      "modes": [
-        "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 4373870,
-      "name": "Unpossess 2: Exorcism Simulator",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4373870/db6872c6c212c50c4329c7a60cd20fc2b4e3a705/header.jpg?t=1790943916",
-      "release": "Oct 2, 2026",
-      "comingSoon": false,
-      "price": "$12.79",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "modes": [
-        "Co-op",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5253510,
-      "name": "Saldyr: Before the Crown Fell",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5253510/dcbdaa8c51a2d89350e1b1cc4a2104e36c87e300/header.jpg?t=1790943566",
-      "release": "Oct 2, 2026",
-      "comingSoon": false,
-      "price": "Free",
+      "price": "$4.99",
       "genres": [
         "Indie",
-        "RPG",
+        "Simulation",
         "Strategy"
       ],
       "modes": [
@@ -135,17 +20,18 @@
       ]
     },
     {
-      "id": 5184050,
-      "name": "Wizard Harder Or Get Laid Off",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5184050/703c460dd76ddb2fd214d10931ea91f880337853/header.jpg?t=1790941322",
+      "id": 4364930,
+      "name": "Birb",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4364930/122dcb70cf78714f4806d286acb107934ce37ff2/header.jpg?t=1790992975",
       "release": "Oct 2, 2026",
       "comingSoon": false,
-      "price": "$9.99",
+      "price": "$3.99",
       "genres": [
-        "Casual"
+        "Casual",
+        "Indie"
       ],
       "modes": [
-        "PvP",
+        "Co-op",
         "Multi-player"
       ]
     }
