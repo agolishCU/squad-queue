@@ -1,7 +1,73 @@
 {
-  "scannedAt": "2026-10-03T16:18:02.843Z",
+  "scannedAt": "2026-10-04T16:51:03.015Z",
   "source": "Steam featured New Releases list",
   "games": [
+    {
+      "id": 5036340,
+      "name": "LUPKAR - World of Billiards",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5036340/939133492da6c5b07d9fb581ba0d77aa72b49f34/header.jpg?t=1791104453",
+      "release": "Oct 4, 2026",
+      "comingSoon": false,
+      "price": "$7.64",
+      "genres": [
+        "Massively Multiplayer",
+        "Simulation",
+        "Sports"
+      ],
+      "modes": [
+        "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5087210,
+      "name": "HEARKEN",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5087210/bc3e9168cd35f30bb9a2f6a7e6575e5eba74532e/header.jpg?t=1791125015",
+      "release": "Oct 4, 2026",
+      "comingSoon": false,
+      "price": "$4.99",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+      ],
+      "modes": [
+        "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 1585100,
+      "name": "Snow War",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1585100/97500e1769dca755ff04d143f79a66a95233b7f5/header.jpg?t=1791096223",
+      "release": "Oct 3, 2026",
+      "comingSoon": false,
+      "price": "$1.99",
+      "genres": [
+        "Action"
+      ],
+      "modes": [
+        "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5233540,
+      "name": "Go",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5233540/5c8f93e23bfd48718dbd5743beeb56abfe4a623f/header.jpg?t=1791036929",
+      "release": "Oct 3, 2026",
+      "comingSoon": false,
+      "price": "$7.99",
+      "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+      ],
+      "modes": [
+        "PvP",
+        "Multi-player"
+      ]
+    },
     {
       "id": 4899730,
       "name": "Intercept Line",
@@ -13,22 +79,6 @@
         "Indie",
         "Simulation",
         "Strategy"
-      ],
-      "modes": [
-        "Co-op",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 4364930,
-      "name": "Birb",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4364930/122dcb70cf78714f4806d286acb107934ce37ff2/header.jpg?t=1790992975",
-      "release": "Oct 2, 2026",
-      "comingSoon": false,
-      "price": "$3.99",
-      "genres": [
-        "Casual",
-        "Indie"
       ],
       "modes": [
         "Co-op",
