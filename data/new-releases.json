@@ -1,14 +1,46 @@
 {
-  "scannedAt": "2026-10-06T18:22:39.856Z",
+  "scannedAt": "2026-10-07T18:57:29.380Z",
   "source": "Steam featured New Releases list",
   "games": [
     {
-      "id": 5216780,
-      "name": "Infinite Chess",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5216780/abd9e663255b51396b8f449aecd1697c1314a14c/header.jpg?t=1791304019",
-      "release": "Oct 6, 2026",
+      "id": 2902720,
+      "name": "SPAM",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2902720/358f282fbcf43a12e08ad2dc3153d11046e2021f/header.jpg?t=1791392303",
+      "release": "Oct 7, 2026",
       "comingSoon": false,
-      "price": "$6.99",
+      "price": "Free",
+      "genres": [
+        "RPG",
+        "Strategy",
+        "Free To Play"
+      ],
+      "modes": [
+        "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 2894770,
+      "name": "PokerLines",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2894770/d7026998462eda2c66d5e32a2baeb0fb6484f7fd/header.jpg?t=1791386624",
+      "release": "Oct 7, 2026",
+      "comingSoon": false,
+      "price": "$1.59",
+      "genres": [
+        "Casual"
+      ],
+      "modes": [
+        "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5221860,
+      "name": "Chess Folk",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5221860/231f25cf70876c6f4461e4fa3038098d0014a0cd/header.jpg?t=1791383002",
+      "release": "Oct 7, 2026",
+      "comingSoon": false,
+      "price": "$10.19",
       "genres": [
         "Strategy"
       ],
@@ -18,102 +50,19 @@
       ]
     },
     {
-      "id": 5269790,
-      "name": "Flappy Wings Multiplayer",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5269790/628f41c76c65d3621e79fe7b6600e15065bad1ad/header.jpg?t=1791300803",
-      "release": "Oct 6, 2026",
-      "comingSoon": false,
-      "price": "$0.59",
-      "genres": [
-        "Casual",
-        "Indie"
-      ],
-      "modes": [
-        "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 3010850,
-      "name": "Gears of War: E-Day",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3010850/1abb0c5ef76c14f463dd6e3964adb64f984237d2/header.jpg?t=1791301675",
-      "release": "Oct 6, 2026",
-      "comingSoon": false,
-      "price": "$69.99",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "modes": [
-        "Co-op",
-        "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5167810,
-      "name": "Hot Meals Fast Wheels - Prologue",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5167810/4539d22285b824e1cd7d49efb220e8752f647f0b/header.jpg?t=1791300228",
-      "release": "Oct 6, 2026",
+      "id": 4991930,
+      "name": "Fallgate",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4991930/b96809e070af67fcc10bce908c0455c8fd7bede5/header.jpg?t=1791376624",
+      "release": "Oct 7, 2026",
       "comingSoon": false,
       "price": "Free",
       "genres": [
         "Action",
-        "Casual",
-        "Indie"
-      ],
-      "modes": [
-        "Co-op",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5285560,
-      "name": "Tower of Fangs: Summoned to Another World, I Was Locked in a Tower with 299 Strikers, Only the Last Egoist Goes Home",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5285560/2451276076353738bf549ee2564abee69a3e3743/header.jpg?t=1791288045",
-      "release": "Oct 6, 2026",
-      "comingSoon": false,
-      "price": "$8.99",
-      "genres": [
-        "Indie",
-        "RPG",
-        "Sports"
-      ],
-      "modes": [
-        "Co-op",
-        "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5247270,
-      "name": "Moto Racing Manager",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5247270/d15d31e15627a649f882a63a4069d70ae4bbd63e/header.jpg?t=1791286254",
-      "release": "Oct 6, 2026",
-      "comingSoon": false,
-      "price": "Free",
-      "genres": [
-        "Action",
-        "Casual",
-        "Racing"
+        "Sports",
+        "Free To Play"
       ],
       "modes": [
         "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5229620,
-      "name": "Escape the Playground",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5229620/838c1e0492bec8b8cfee0be7893aa4f524f570d1/header.jpg?t=1791282252",
-      "release": "Oct 6, 2026",
-      "comingSoon": false,
-      "price": "$5.99",
-      "genres": [
-        "Action"
-      ],
-      "modes": [
-        "Co-op",
         "Multi-player"
       ]
     }
