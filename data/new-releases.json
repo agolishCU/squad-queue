@@ -1,65 +1,102 @@
 {
-  "scannedAt": "2026-10-07T18:57:29.380Z",
+  "scannedAt": "2026-10-08T18:51:04.543Z",
   "source": "Steam featured New Releases list",
   "games": [
     {
-      "id": 2902720,
-      "name": "SPAM",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2902720/358f282fbcf43a12e08ad2dc3153d11046e2021f/header.jpg?t=1791392303",
-      "release": "Oct 7, 2026",
-      "comingSoon": false,
+      "id": 5217620,
+      "name": "Cosmo Arena",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5217620/92dabd7c5cb784a778e33e7f7e7fdc9cb806faf3/header.jpg?t=1791481367",
+      "release": "Coming soon",
+      "comingSoon": true,
       "price": "Free",
       "genres": [
-        "RPG",
+        "Action",
         "Strategy",
         "Free To Play"
       ],
       "modes": [
+        "Co-op",
         "PvP",
         "Multi-player"
       ]
     },
     {
-      "id": 2894770,
-      "name": "PokerLines",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2894770/d7026998462eda2c66d5e32a2baeb0fb6484f7fd/header.jpg?t=1791386624",
-      "release": "Oct 7, 2026",
+      "id": 5245720,
+      "name": "Old War Together",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5245720/ce12e93db4a4a4e13208c5394a40152493878507/header.jpg?t=1791479066",
+      "release": "Oct 8, 2026",
       "comingSoon": false,
-      "price": "$1.59",
+      "price": "$1.19",
+      "genres": [
+        "Action",
+        "Indie"
+      ],
+      "modes": [
+        "Co-op",
+        "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 4398290,
+      "name": "Sort of Magic",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4398290/7cae01d555f8abcbcbc115706ba4fc28bed860d8/header.jpg?t=1791475280",
+      "release": "Oct 8, 2026",
+      "comingSoon": false,
+      "price": "$6.79",
       "genres": [
         "Casual"
       ],
       "modes": [
-        "PvP",
+        "Co-op",
         "Multi-player"
       ]
     },
     {
-      "id": 5221860,
-      "name": "Chess Folk",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5221860/231f25cf70876c6f4461e4fa3038098d0014a0cd/header.jpg?t=1791383002",
-      "release": "Oct 7, 2026",
-      "comingSoon": false,
-      "price": "$10.19",
-      "genres": [
-        "Strategy"
-      ],
-      "modes": [
-        "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 4991930,
-      "name": "Fallgate",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4991930/b96809e070af67fcc10bce908c0455c8fd7bede5/header.jpg?t=1791376624",
-      "release": "Oct 7, 2026",
+      "id": 3952540,
+      "name": "Birdseed",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3952540/c0d742ccd33b4cd48815c9fabfea8f26ed2969ac/header.jpg?t=1791482671",
+      "release": "Oct 8, 2026",
       "comingSoon": false,
       "price": "Free",
       "genres": [
+        "Casual",
+        "Indie",
+        "Simulation"
+      ],
+      "modes": [
+        "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 4020120,
+      "name": "Magic Twinborn",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4020120/23a57c4d39eae9e5133438147fc972326de1e079/header.jpg?t=1791473610",
+      "release": "Oct 8, 2026",
+      "comingSoon": false,
+      "price": "$7.19",
+      "genres": [
+        "Adventure",
+        "Casual",
+        "Indie"
+      ],
+      "modes": [
+        "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 4260550,
+      "name": "Run Giraffe Run",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260550/a42fce338fb2213c55f4f7664c91330b3f5de463/header.jpg?t=1791471893",
+      "release": "Oct 8, 2026",
+      "comingSoon": false,
+      "price": "$6.39",
+      "genres": [
         "Action",
-        "Sports",
-        "Free To Play"
+        "Adventure",
+        "Casual"
       ],
       "modes": [
         "PvP",
