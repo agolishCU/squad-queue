@@ -1,62 +1,12 @@
 {
-  "scannedAt": "2026-10-08T18:51:04.543Z",
+  "scannedAt": "2026-10-09T18:21:34.475Z",
   "source": "Steam featured New Releases list",
   "games": [
     {
-      "id": 5217620,
-      "name": "Cosmo Arena",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5217620/92dabd7c5cb784a778e33e7f7e7fdc9cb806faf3/header.jpg?t=1791481367",
-      "release": "Coming soon",
-      "comingSoon": true,
-      "price": "Free",
-      "genres": [
-        "Action",
-        "Strategy",
-        "Free To Play"
-      ],
-      "modes": [
-        "Co-op",
-        "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5245720,
-      "name": "Old War Together",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5245720/ce12e93db4a4a4e13208c5394a40152493878507/header.jpg?t=1791479066",
-      "release": "Oct 8, 2026",
-      "comingSoon": false,
-      "price": "$1.19",
-      "genres": [
-        "Action",
-        "Indie"
-      ],
-      "modes": [
-        "Co-op",
-        "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 4398290,
-      "name": "Sort of Magic",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4398290/7cae01d555f8abcbcbc115706ba4fc28bed860d8/header.jpg?t=1791475280",
-      "release": "Oct 8, 2026",
-      "comingSoon": false,
-      "price": "$6.79",
-      "genres": [
-        "Casual"
-      ],
-      "modes": [
-        "Co-op",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 3952540,
-      "name": "Birdseed",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3952540/c0d742ccd33b4cd48815c9fabfea8f26ed2969ac/header.jpg?t=1791482671",
-      "release": "Oct 8, 2026",
+      "id": 4190960,
+      "name": "LOST & FOUND",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4190960/3ed327ef7847b7d44ab9f6331c92d360e7f0d541/header.jpg?t=1791565474",
+      "release": "Oct 9, 2026",
       "comingSoon": false,
       "price": "Free",
       "genres": [
@@ -66,20 +16,19 @@
       ],
       "modes": [
         "Co-op",
+        "PvP",
         "Multi-player"
       ]
     },
     {
-      "id": 4020120,
-      "name": "Magic Twinborn",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4020120/23a57c4d39eae9e5133438147fc972326de1e079/header.jpg?t=1791473610",
-      "release": "Oct 8, 2026",
+      "id": 5259810,
+      "name": "Shopping Center Simulator",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5259810/7be52fa4f064ca69da16a584a639c9b42c104a07/header.jpg?t=1791565107",
+      "release": "Oct 9, 2026",
       "comingSoon": false,
-      "price": "$7.19",
+      "price": "$8.49",
       "genres": [
-        "Adventure",
-        "Casual",
-        "Indie"
+        "Simulation"
       ],
       "modes": [
         "Co-op",
@@ -87,16 +36,101 @@
       ]
     },
     {
-      "id": 4260550,
-      "name": "Run Giraffe Run",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260550/a42fce338fb2213c55f4f7664c91330b3f5de463/header.jpg?t=1791471893",
-      "release": "Oct 8, 2026",
+      "id": 5234450,
+      "name": "Shape Up!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5234450/952215bd3c702d87f33a49a4ba0e73dbf3531406/header.jpg?t=1791564343",
+      "release": "Oct 9, 2026",
       "comingSoon": false,
-      "price": "$6.39",
+      "price": "$9.99",
+      "genres": [
+        "Action",
+        "Indie"
+      ],
+      "modes": [
+        "Co-op",
+        "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 3775510,
+      "name": "Duckoleon",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3775510/8cc5649d4ec9601f2491dc3a3d742002601e06c3/header.jpg?t=1791562273",
+      "release": "Oct 9, 2026",
+      "comingSoon": false,
+      "price": "Free",
+      "genres": [
+        "Action",
+        "Free To Play"
+      ],
+      "modes": [
+        "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 4642120,
+      "name": "It Hears You: Together",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4642120/e616fe0373fc2c319924069385641442c6621711/header.jpg?t=1791561887",
+      "release": "Oct 9, 2026",
+      "comingSoon": false,
+      "price": "$3.19",
       "genres": [
         "Action",
         "Adventure",
-        "Casual"
+        "Indie"
+      ],
+      "modes": [
+        "Co-op",
+        "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5091950,
+      "name": "10000 Rats: The Simulation",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5091950/1c279378a3cbe36c138499220f8d6847103405ea/header.jpg?t=1791560547",
+      "release": "Oct 9, 2026",
+      "comingSoon": false,
+      "price": "$4.24",
+      "genres": [
+        "Action",
+        "Casual",
+        "Simulation"
+      ],
+      "modes": [
+        "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 4682330,
+      "name": "Fister",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4682330/f28f6de443e2573d724c699cf8b17a8f71ffb6e3/header.jpg?t=1791558526",
+      "release": "Oct 9, 2026",
+      "comingSoon": false,
+      "price": "$6.92",
+      "genres": [
+        "Action",
+        "Indie",
+        "Simulation"
+      ],
+      "modes": [
+        "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5166730,
+      "name": "Words of Power: Logos",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5166730/2426a94d34d3ea98175c96eccb777a0c44ab18da/header.jpg?t=1791557979",
+      "release": "Oct 9, 2026",
+      "comingSoon": false,
+      "price": "$9.99",
+      "genres": [
+        "Action",
+        "Casual",
+        "Indie"
       ],
       "modes": [
         "PvP",
