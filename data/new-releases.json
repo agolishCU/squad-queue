@@ -1,14 +1,14 @@
 {
-  "scannedAt": "2026-10-09T18:21:34.475Z",
+  "scannedAt": "2026-10-10T17:20:58.059Z",
   "source": "Steam featured New Releases list",
   "games": [
     {
-      "id": 4190960,
-      "name": "LOST & FOUND",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4190960/3ed327ef7847b7d44ab9f6331c92d360e7f0d541/header.jpg?t=1791565474",
-      "release": "Oct 9, 2026",
+      "id": 4847040,
+      "name": "On Hold - Call Center Simulator",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4847040/c00c66806253fe13e11bd6e03779f4636f798f50/header.jpg?t=1791641632",
+      "release": "Oct 10, 2026",
       "comingSoon": false,
-      "price": "Free",
+      "price": "$3.49",
       "genres": [
         "Casual",
         "Indie",
@@ -16,68 +16,36 @@
       ],
       "modes": [
         "Co-op",
-        "PvP",
         "Multi-player"
       ]
     },
     {
-      "id": 5259810,
-      "name": "Shopping Center Simulator",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5259810/7be52fa4f064ca69da16a584a639c9b42c104a07/header.jpg?t=1791565107",
-      "release": "Oct 9, 2026",
+      "id": 5211870,
+      "name": "Catch The Fish",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5211870/6243f448ce25f35c5b4516b32b98653491c0a7c8/header.jpg?t=1791640072",
+      "release": "Oct 10, 2026",
       "comingSoon": false,
-      "price": "$8.49",
-      "genres": [
-        "Simulation"
-      ],
-      "modes": [
-        "Co-op",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5234450,
-      "name": "Shape Up!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5234450/952215bd3c702d87f33a49a4ba0e73dbf3531406/header.jpg?t=1791564343",
-      "release": "Oct 9, 2026",
-      "comingSoon": false,
-      "price": "$9.99",
-      "genres": [
-        "Action",
-        "Indie"
-      ],
-      "modes": [
-        "Co-op",
-        "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 3775510,
-      "name": "Duckoleon",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3775510/8cc5649d4ec9601f2491dc3a3d742002601e06c3/header.jpg?t=1791562273",
-      "release": "Oct 9, 2026",
-      "comingSoon": false,
-      "price": "Free",
-      "genres": [
-        "Action",
-        "Free To Play"
-      ],
-      "modes": [
-        "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 4642120,
-      "name": "It Hears You: Together",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4642120/e616fe0373fc2c319924069385641442c6621711/header.jpg?t=1791561887",
-      "release": "Oct 9, 2026",
-      "comingSoon": false,
-      "price": "$3.19",
+      "price": "$4.79",
       "genres": [
         "Action",
         "Adventure",
+        "Massively Multiplayer"
+      ],
+      "modes": [
+        "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 4150920,
+      "name": "The Szyk",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4150920/680c3404b3e164693a6ab829fbef956d46f33d6f/header.jpg?t=1791617385",
+      "release": "Oct 10, 2026",
+      "comingSoon": false,
+      "price": "Free",
+      "genres": [
+        "Adventure",
+        "Casual",
         "Indie"
       ],
       "modes": [
@@ -87,50 +55,65 @@
       ]
     },
     {
-      "id": 5091950,
-      "name": "10000 Rats: The Simulation",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5091950/1c279378a3cbe36c138499220f8d6847103405ea/header.jpg?t=1791560547",
-      "release": "Oct 9, 2026",
+      "id": 4185150,
+      "name": "Space Tanks",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4185150/2d1bc74e64b28762acb622eb8290b6e562b1ae9a/header.jpg?t=1791615748",
+      "release": "Oct 10, 2026",
       "comingSoon": false,
-      "price": "$4.24",
-      "genres": [
-        "Action",
-        "Casual",
-        "Simulation"
-      ],
-      "modes": [
-        "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 4682330,
-      "name": "Fister",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4682330/f28f6de443e2573d724c699cf8b17a8f71ffb6e3/header.jpg?t=1791558526",
-      "release": "Oct 9, 2026",
-      "comingSoon": false,
-      "price": "$6.92",
-      "genres": [
-        "Action",
-        "Indie",
-        "Simulation"
-      ],
-      "modes": [
-        "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5166730,
-      "name": "Words of Power: Logos",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5166730/2426a94d34d3ea98175c96eccb777a0c44ab18da/header.jpg?t=1791557979",
-      "release": "Oct 9, 2026",
-      "comingSoon": false,
-      "price": "$9.99",
+      "price": "$4.99",
       "genres": [
         "Action",
         "Casual",
         "Indie"
+      ],
+      "modes": [
+        "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5105400,
+      "name": "SPACE JK",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5105400/443fc1089b9fe857b73476ac18e2685d37e36652/header.jpg?t=1791608363",
+      "release": "Oct 9, 2026",
+      "comingSoon": false,
+      "price": "Free",
+      "genres": [
+        "Casual",
+        "Indie",
+        "Simulation"
+      ],
+      "modes": [
+        "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5133950,
+      "name": "MUSIC BAND SIMULATOR:TOGETHER",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5133950/bbfc6f736a389f655ce1f13ff1afbbb4f5a4bda0/header.jpg?t=1791602517",
+      "release": "Oct 9, 2026",
+      "comingSoon": false,
+      "price": "$2.99",
+      "genres": [
+        "Casual"
+      ],
+      "modes": [
+        "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5099990,
+      "name": "농구제왕",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5099990/3dc316953fd75ad6900c68618c4370e302ebdbe4/header.jpg?t=1791597619",
+      "release": "Oct 9, 2026",
+      "comingSoon": false,
+      "price": "Free",
+      "genres": [
+        "Action",
+        "Sports",
+        "Free To Play"
       ],
       "modes": [
         "PvP",
