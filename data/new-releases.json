@@ -1,17 +1,17 @@
 {
-  "scannedAt": "2026-10-11T17:41:28.489Z",
+  "scannedAt": "2026-10-12T21:16:30.018Z",
   "source": "Steam featured New Releases list",
   "games": [
     {
-      "id": 3911840,
-      "name": "100 Cats Lost in China 2 Find & Color",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3911840/633424c8e9a6746dbeebb077d56fc2a512498072/header.jpg?t=1791728893",
-      "release": "Oct 11, 2026",
+      "id": 5303740,
+      "name": "One More Wave",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5303740/1e3e28a46d080916377b3ec2e8bf2e1dd111f674/header.jpg?t=1791824746",
+      "release": "Oct 12, 2026",
       "comingSoon": false,
-      "price": "$2.99",
+      "price": "Free",
       "genres": [
-        "Casual",
-        "Indie"
+        "Indie",
+        "Free To Play"
       ],
       "modes": [
         "Co-op",
@@ -19,16 +19,50 @@
       ]
     },
     {
-      "id": 2022260,
-      "name": "Arcana Rift",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2022260/8a7478cb4da388bc08277d327fa6b57859d9c56d/header.jpg?t=1791701229",
-      "release": "Oct 10, 2026",
+      "id": 4024440,
+      "name": "Haunted Heist",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4024440/a0c648f8b640efae435a68f2d05eff10e2c33b96/header.jpg?t=1791824428",
+      "release": "Oct 12, 2026",
       "comingSoon": false,
-      "price": "$5.99",
+      "price": "$7.99",
       "genres": [
+        "Action",
+        "Indie"
+      ],
+      "modes": [
+        "Co-op",
+        "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 4425550,
+      "name": "Monkey Bizniz",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4425550/93ca74f77f1e58ffb2daf272e168383101630105/header.jpg?t=1791820974",
+      "release": "Oct 12, 2026",
+      "comingSoon": false,
+      "price": "$8.09",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Casual"
+      ],
+      "modes": [
+        "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5213150,
+      "name": "Cat Fiesta",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5213150/6f88c1dffa6d992f3a2cfac8224998a2afddffb4/header.jpg?t=1791817330",
+      "release": "Oct 12, 2026",
+      "comingSoon": false,
+      "price": "$6.23",
+      "genres": [
+        "Action",
         "Casual",
-        "Indie",
-        "RPG"
+        "Indie"
       ],
       "modes": [
         "PvP",
@@ -36,12 +70,12 @@
       ]
     },
     {
-      "id": 5249210,
-      "name": "NekoTrak",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5249210/d3ff6eb306d18e4ec59def351b4370e7d93653b0/header.jpg?t=1791691089",
-      "release": "Oct 10, 2026",
+      "id": 4513300,
+      "name": "Dinerz",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4513300/e82b305fda72eafe1f7e48cd49d1ec8b5c8d8931/header.jpg?t=1791817246",
+      "release": "Oct 12, 2026",
       "comingSoon": false,
-      "price": "$3.19",
+      "price": "$6.79",
       "genres": [
         "Casual",
         "Indie",
@@ -53,48 +87,12 @@
       ]
     },
     {
-      "id": 5136630,
-      "name": "CyberCowboys",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5136630/8d2b7a6c99edc3aebb98b4cce8ef17497dad24a5/header.jpg?t=1791672464",
-      "release": "Oct 10, 2026",
+      "id": 4456180,
+      "name": "Overdue",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4456180/679a37b8acc5f3b204b95107958d18ee74466973/header.jpg?t=1791815578",
+      "release": "Oct 12, 2026",
       "comingSoon": false,
-      "price": "Free",
-      "genres": [
-        "Casual",
-        "Indie",
-        "Massively Multiplayer"
-      ],
-      "modes": [
-        "PvP",
-        "MMO",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 4456960,
-      "name": "Astro Yoinkers",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4456960/d43f23cd6539dfc7652518773f20c9e7a26d1cce/header.jpg?t=1791659857",
-      "release": "Oct 10, 2026",
-      "comingSoon": false,
-      "price": "$5.24",
-      "genres": [
-        "Action",
-        "Casual",
-        "Indie"
-      ],
-      "modes": [
-        "Co-op",
-        "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 3627560,
-      "name": "Bounty Hunter Horrors",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3627560/6e8a2da31174d37aa5bc545596553cfd7dd62183/header.jpg?t=1791648048",
-      "release": "Oct 10, 2026",
-      "comingSoon": false,
-      "price": "$7.99",
+      "price": "$8.99",
       "genres": [
         "Action",
         "Adventure",
@@ -106,19 +104,34 @@
       ]
     },
     {
-      "id": 4847040,
-      "name": "On Hold - Call Center Simulator",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4847040/c00c66806253fe13e11bd6e03779f4636f798f50/header.jpg?t=1791701842",
-      "release": "Oct 10, 2026",
+      "id": 3780530,
+      "name": "American Cooking Simulator: Multiplayer",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3780530/a2038835301dd20646d8c73ea31c5671cec8bd96/header.jpg?t=1791813561",
+      "release": "Oct 12, 2026",
       "comingSoon": false,
-      "price": "$3.49",
+      "price": "$3.99",
       "genres": [
-        "Casual",
+        "Action",
         "Indie",
         "Simulation"
       ],
       "modes": [
         "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5083390,
+      "name": "Coin Rush",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5083390/5813e3b6d46c508525154bb9e182c47d076efde6/header.jpg?t=1791812853",
+      "release": "Oct 12, 2026",
+      "comingSoon": false,
+      "price": "$1.99",
+      "genres": [
+        "Casual"
+      ],
+      "modes": [
+        "PvP",
         "Multi-player"
       ]
     }
