@@ -1,17 +1,17 @@
 {
-  "scannedAt": "2026-10-12T21:16:30.018Z",
+  "scannedAt": "2026-10-13T19:17:59.639Z",
   "source": "Steam featured New Releases list",
   "games": [
     {
-      "id": 5303740,
-      "name": "One More Wave",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5303740/1e3e28a46d080916377b3ec2e8bf2e1dd111f674/header.jpg?t=1791824746",
-      "release": "Oct 12, 2026",
+      "id": 3314580,
+      "name": "Trash Day",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3314580/6d7cb32debcbdba122624fae234c659cdff2b4bf/header.jpg?t=1791911043",
+      "release": "Oct 13, 2026",
       "comingSoon": false,
-      "price": "Free",
+      "price": "$7.19",
       "genres": [
-        "Indie",
-        "Free To Play"
+        "Action",
+        "Adventure"
       ],
       "modes": [
         "Co-op",
@@ -19,31 +19,14 @@
       ]
     },
     {
-      "id": 4024440,
-      "name": "Haunted Heist",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4024440/a0c648f8b640efae435a68f2d05eff10e2c33b96/header.jpg?t=1791824428",
-      "release": "Oct 12, 2026",
+      "id": 3071240,
+      "name": "Voodoo Fishin'",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3071240/a09810eafb3218a829424143332e4e9e867c60ea/header.jpg?t=1791910820",
+      "release": "Oct 13, 2026",
       "comingSoon": false,
       "price": "$7.99",
       "genres": [
         "Action",
-        "Indie"
-      ],
-      "modes": [
-        "Co-op",
-        "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 4425550,
-      "name": "Monkey Bizniz",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4425550/93ca74f77f1e58ffb2daf272e168383101630105/header.jpg?t=1791820974",
-      "release": "Oct 12, 2026",
-      "comingSoon": false,
-      "price": "$8.09",
-      "genres": [
-        "Action",
         "Adventure",
         "Casual"
       ],
@@ -53,84 +36,35 @@
       ]
     },
     {
-      "id": 5213150,
-      "name": "Cat Fiesta",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5213150/6f88c1dffa6d992f3a2cfac8224998a2afddffb4/header.jpg?t=1791817330",
-      "release": "Oct 12, 2026",
-      "comingSoon": false,
-      "price": "$6.23",
-      "genres": [
-        "Action",
-        "Casual",
-        "Indie"
-      ],
-      "modes": [
-        "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 4513300,
-      "name": "Dinerz",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4513300/e82b305fda72eafe1f7e48cd49d1ec8b5c8d8931/header.jpg?t=1791817246",
-      "release": "Oct 12, 2026",
-      "comingSoon": false,
-      "price": "$6.79",
-      "genres": [
-        "Casual",
-        "Indie",
-        "Simulation"
-      ],
-      "modes": [
-        "Co-op",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 4456180,
-      "name": "Overdue",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4456180/679a37b8acc5f3b204b95107958d18ee74466973/header.jpg?t=1791815578",
-      "release": "Oct 12, 2026",
-      "comingSoon": false,
-      "price": "$8.99",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Indie"
-      ],
-      "modes": [
-        "Co-op",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 3780530,
-      "name": "American Cooking Simulator: Multiplayer",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3780530/a2038835301dd20646d8c73ea31c5671cec8bd96/header.jpg?t=1791813561",
-      "release": "Oct 12, 2026",
+      "id": 5245600,
+      "name": "Just Spades",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5245600/1caf2d8dea821a96947b9cdce50ab67c2c6bf69f/header.jpg?t=1791908705",
+      "release": "Oct 13, 2026",
       "comingSoon": false,
       "price": "$3.99",
       "genres": [
-        "Action",
+        "Casual",
         "Indie",
-        "Simulation"
+        "Strategy"
       ],
       "modes": [
         "Co-op",
+        "PvP",
         "Multi-player"
       ]
     },
     {
-      "id": 5083390,
-      "name": "Coin Rush",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5083390/5813e3b6d46c508525154bb9e182c47d076efde6/header.jpg?t=1791812853",
-      "release": "Oct 12, 2026",
+      "id": 3846830,
+      "name": "Total War: SHOGUN 2 - Complete Edition",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3846830/d0ee9f67d5afcf19e5e8d7955fc831d5d197bdb0/header.jpg?t=1791903651",
+      "release": "Oct 13, 2026",
       "comingSoon": false,
-      "price": "$1.99",
+      "price": "$39.99",
       "genres": [
-        "Casual"
+        "Strategy"
       ],
       "modes": [
+        "Co-op",
         "PvP",
         "Multi-player"
       ]
