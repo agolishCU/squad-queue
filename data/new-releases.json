@@ -1,34 +1,18 @@
 {
-  "scannedAt": "2026-10-13T19:17:59.639Z",
+  "scannedAt": "2026-10-14T17:11:08.607Z",
   "source": "Steam featured New Releases list",
   "games": [
     {
-      "id": 3314580,
-      "name": "Trash Day",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3314580/6d7cb32debcbdba122624fae234c659cdff2b4bf/header.jpg?t=1791911043",
-      "release": "Oct 13, 2026",
+      "id": 5100440,
+      "name": "Thief Simulator 3: First Loot",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5100440/8c03e478225303cbe86343dc2a18b6c1f4c046c7/header.jpg?t=1791993706",
+      "release": "Oct 14, 2026",
       "comingSoon": false,
-      "price": "$7.19",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "modes": [
-        "Co-op",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 3071240,
-      "name": "Voodoo Fishin'",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3071240/a09810eafb3218a829424143332e4e9e867c60ea/header.jpg?t=1791910820",
-      "release": "Oct 13, 2026",
-      "comingSoon": false,
-      "price": "$7.99",
+      "price": "Free",
       "genres": [
         "Action",
         "Adventure",
-        "Casual"
+        "Indie"
       ],
       "modes": [
         "Co-op",
@@ -36,12 +20,45 @@
       ]
     },
     {
-      "id": 5245600,
-      "name": "Just Spades",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5245600/1caf2d8dea821a96947b9cdce50ab67c2c6bf69f/header.jpg?t=1791908705",
-      "release": "Oct 13, 2026",
+      "id": 4059000,
+      "name": "Cozy Builder",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4059000/121fde8712579a6f7b5095f5fad0d88f360bec75/header.jpg?t=1791994869",
+      "release": "Oct 14, 2026",
       "comingSoon": false,
-      "price": "$3.99",
+      "price": "$11.99",
+      "genres": [
+        "Casual",
+        "Indie"
+      ],
+      "modes": [
+        "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 2929250,
+      "name": "over the hill",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2929250/header.jpg?t=1791994837",
+      "release": "Oct 14, 2026",
+      "comingSoon": false,
+      "price": "$19.99",
+      "genres": [
+        "Adventure",
+        "Casual",
+        "Indie"
+      ],
+      "modes": [
+        "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 2918650,
+      "name": "Starbiz",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918650/header.jpg?t=1791991054",
+      "release": "Oct 14, 2026",
+      "comingSoon": false,
+      "price": "$8.49",
       "genres": [
         "Casual",
         "Indie",
@@ -54,17 +71,51 @@
       ]
     },
     {
-      "id": 3846830,
-      "name": "Total War: SHOGUN 2 - Complete Edition",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3846830/d0ee9f67d5afcf19e5e8d7955fc831d5d197bdb0/header.jpg?t=1791903651",
-      "release": "Oct 13, 2026",
+      "id": 2949320,
+      "name": "Ratatan",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2949320/274bc23d79c61dd41445a1c9e7438a9529b08395/header_alt_assets_0.jpg?t=1791991254",
+      "release": "Oct 14, 2026",
       "comingSoon": false,
-      "price": "$39.99",
+      "price": "$34.99",
       "genres": [
-        "Strategy"
+        "Action",
+        "Adventure",
+        "Casual"
       ],
       "modes": [
         "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 3153450,
+      "name": "Parallel Park",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3153450/42edcf40d03e6bb89fb79938a853c0df0768bcf0/header.jpg?t=1791989411",
+      "release": "Oct 14, 2026",
+      "comingSoon": false,
+      "price": "$17.99",
+      "genres": [
+        "Indie",
+        "Racing"
+      ],
+      "modes": [
+        "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5194790,
+      "name": "FIBS",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5194790/e2ffd78be79076a2aaea8e338b3c89e0dd47bae2/header.jpg?t=1791984114",
+      "release": "Oct 14, 2026",
+      "comingSoon": false,
+      "price": "$2.99",
+      "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+      ],
+      "modes": [
         "PvP",
         "Multi-player"
       ]
