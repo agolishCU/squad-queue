@@ -1,14 +1,14 @@
 {
-  "scannedAt": "2026-10-14T17:11:08.607Z",
+  "scannedAt": "2026-10-15T17:01:44.139Z",
   "source": "Steam featured New Releases list",
   "games": [
     {
-      "id": 5100440,
-      "name": "Thief Simulator 3: First Loot",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5100440/8c03e478225303cbe86343dc2a18b6c1f4c046c7/header.jpg?t=1791993706",
-      "release": "Oct 14, 2026",
+      "id": 1203620,
+      "name": "Enshrouded",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/98ca939f51b39bdd41e0e9198a9ccf8421148770/header_alt_assets_2.jpg?t=1792078032",
+      "release": "Oct 15, 2026",
       "comingSoon": false,
-      "price": "Free",
+      "price": "$35.99",
       "genres": [
         "Action",
         "Adventure",
@@ -20,63 +20,12 @@
       ]
     },
     {
-      "id": 4059000,
-      "name": "Cozy Builder",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4059000/121fde8712579a6f7b5095f5fad0d88f360bec75/header.jpg?t=1791994869",
-      "release": "Oct 14, 2026",
+      "id": 3981220,
+      "name": "Ezmeralda",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3981220/b0377551495d28973c7e8e1fac006988d748755f/header.jpg?t=1792076995",
+      "release": "Oct 15, 2026",
       "comingSoon": false,
-      "price": "$11.99",
-      "genres": [
-        "Casual",
-        "Indie"
-      ],
-      "modes": [
-        "Co-op",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 2929250,
-      "name": "over the hill",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2929250/header.jpg?t=1791994837",
-      "release": "Oct 14, 2026",
-      "comingSoon": false,
-      "price": "$19.99",
-      "genres": [
-        "Adventure",
-        "Casual",
-        "Indie"
-      ],
-      "modes": [
-        "Co-op",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 2918650,
-      "name": "Starbiz",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918650/header.jpg?t=1791991054",
-      "release": "Oct 14, 2026",
-      "comingSoon": false,
-      "price": "$8.49",
-      "genres": [
-        "Casual",
-        "Indie",
-        "Strategy"
-      ],
-      "modes": [
-        "Co-op",
-        "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 2949320,
-      "name": "Ratatan",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2949320/274bc23d79c61dd41445a1c9e7438a9529b08395/header_alt_assets_0.jpg?t=1791991254",
-      "release": "Oct 14, 2026",
-      "comingSoon": false,
-      "price": "$34.99",
+      "price": "$2.99",
       "genres": [
         "Action",
         "Adventure",
@@ -88,14 +37,47 @@
       ]
     },
     {
-      "id": 3153450,
-      "name": "Parallel Park",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3153450/42edcf40d03e6bb89fb79938a853c0df0768bcf0/header.jpg?t=1791989411",
-      "release": "Oct 14, 2026",
+      "id": 4461870,
+      "name": "Reason and Rhyme",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4461870/939d44642fe13ce1d2180adc49aa3caba32425a3/header.jpg?t=1792081680",
+      "release": "Oct 15, 2026",
       "comingSoon": false,
-      "price": "$17.99",
+      "price": "$6.79",
       "genres": [
+        "Adventure"
+      ],
+      "modes": [
+        "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5228920,
+      "name": "Brick by Brick: Tidy Up the Small Town!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5228920/8c57f18ab6a1940b328584fe5556f4c87839e1a0/header.jpg?t=1792078556",
+      "release": "Oct 15, 2026",
+      "comingSoon": false,
+      "price": "$4.95",
+      "genres": [
+        "Casual",
         "Indie",
+        "Simulation"
+      ],
+      "modes": [
+        "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 4049170,
+      "name": "Disney/Pixar Toy Story: Retro Roundup!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4049170/678f17396b23817c2b9a61deff6aa067b6b28a8a/header.jpg?t=1792069202",
+      "release": "Oct 15, 2026",
+      "comingSoon": false,
+      "price": "$29.99",
+      "genres": [
+        "Action",
+        "Adventure",
         "Racing"
       ],
       "modes": [
@@ -104,19 +86,34 @@
       ]
     },
     {
-      "id": 5194790,
-      "name": "FIBS",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5194790/e2ffd78be79076a2aaea8e338b3c89e0dd47bae2/header.jpg?t=1791984114",
-      "release": "Oct 14, 2026",
+      "id": 4049180,
+      "name": "Disney/Pixar Toy Story 3 Complete Edition",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4049180/8d4e4c2c303b6bca383f7d3473400236096fbca2/header.jpg?t=1792069190",
+      "release": "Oct 15, 2026",
       "comingSoon": false,
-      "price": "$2.99",
+      "price": "$24.99",
       "genres": [
-        "Casual",
-        "Indie",
+        "Action",
+        "Adventure"
+      ],
+      "modes": [
+        "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 2347080,
+      "name": "Frosthaven",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2347080/c6c09a8eb1a0fac5ac8e0d2ea0a228c8303d8967/header.jpg?t=1792068928",
+      "release": "Oct 15, 2026",
+      "comingSoon": false,
+      "price": "$27.99",
+      "genres": [
+        "RPG",
         "Strategy"
       ],
       "modes": [
-        "PvP",
+        "Co-op",
         "Multi-player"
       ]
     }
