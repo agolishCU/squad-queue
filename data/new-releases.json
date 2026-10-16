@@ -1,14 +1,115 @@
 {
-  "scannedAt": "2026-10-15T17:01:44.139Z",
+  "scannedAt": "2026-10-16T16:40:13.145Z",
   "source": "Steam featured New Releases list",
   "games": [
     {
-      "id": 1203620,
-      "name": "Enshrouded",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/98ca939f51b39bdd41e0e9198a9ccf8421148770/header_alt_assets_2.jpg?t=1792078032",
-      "release": "Oct 15, 2026",
+      "id": 5298330,
+      "name": "Footage: FLIR",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5298330/49c790c81788e7f0704b0830e0c3714711d0526d/header.jpg?t=1792165110",
+      "release": "Oct 16, 2026",
       "comingSoon": false,
-      "price": "$35.99",
+      "price": "$8.99",
+      "genres": [
+        "Action",
+        "Indie",
+        "Simulation"
+      ],
+      "modes": [
+        "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5328820,
+      "name": "EmberQuest",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5328820/56dafbf811587f303af72b16af388c577751dac2/header.jpg?t=1792165039",
+      "release": "Oct 16, 2026",
+      "comingSoon": false,
+      "price": "Free",
+      "genres": [
+        "Casual",
+        "Massively Multiplayer",
+        "Free To Play"
+      ],
+      "modes": [
+        "Co-op",
+        "PvP",
+        "MMO",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5220890,
+      "name": "Old Times",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5220890/ab0f7d54417e51ea824f99837ce7b3d6afd772e5/header.jpg?t=1792163814",
+      "release": "Oct 16, 2026",
+      "comingSoon": false,
+      "price": "Free",
+      "genres": [
+        "Casual",
+        "Strategy",
+        "Free To Play"
+      ],
+      "modes": [
+        "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 4071650,
+      "name": "Stream Train",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4071650/512c370a44998c759933c3f22be977cd26f336b5/header.jpg?t=1792164618",
+      "release": "Oct 16, 2026",
+      "comingSoon": false,
+      "price": "$5.19",
+      "genres": [
+        "Adventure"
+      ],
+      "modes": [
+        "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5256770,
+      "name": "PropHuntFPS",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5256770/e5dd91054dc0ca2df089ab94396914025a1f6618/header.jpg?t=1792162755",
+      "release": "Oct 16, 2026",
+      "comingSoon": false,
+      "price": "Free",
+      "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+      ],
+      "modes": [
+        "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 1271150,
+      "name": "Elsewhere",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1271150/f9f3ab575f9b5dfd9dc5b0da87fb3994830d99ed/header.jpg?t=1792162480",
+      "release": "Oct 16, 2026",
+      "comingSoon": false,
+      "price": "$11.19",
+      "genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "modes": [
+        "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 2493670,
+      "name": "Deja Vu : The Backrooms",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2493670/97b64cae49b5dbc23965c0892db7b9681ba1e327/header.jpg?t=1792159586",
+      "release": "Oct 16, 2026",
+      "comingSoon": false,
+      "price": "$8.99",
       "genres": [
         "Action",
         "Adventure",
@@ -20,44 +121,12 @@
       ]
     },
     {
-      "id": 3981220,
-      "name": "Ezmeralda",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3981220/b0377551495d28973c7e8e1fac006988d748755f/header.jpg?t=1792076995",
-      "release": "Oct 15, 2026",
+      "id": 4935810,
+      "name": "VHS World '89",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4935810/9fcd047060ad857091f47b9292928a4faeeec673/header.jpg?t=1792159204",
+      "release": "Oct 16, 2026",
       "comingSoon": false,
-      "price": "$2.99",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Casual"
-      ],
-      "modes": [
-        "Co-op",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 4461870,
-      "name": "Reason and Rhyme",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4461870/939d44642fe13ce1d2180adc49aa3caba32425a3/header.jpg?t=1792081680",
-      "release": "Oct 15, 2026",
-      "comingSoon": false,
-      "price": "$6.79",
-      "genres": [
-        "Adventure"
-      ],
-      "modes": [
-        "Co-op",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5228920,
-      "name": "Brick by Brick: Tidy Up the Small Town!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5228920/8c57f18ab6a1940b328584fe5556f4c87839e1a0/header.jpg?t=1792078556",
-      "release": "Oct 15, 2026",
-      "comingSoon": false,
-      "price": "$4.95",
+      "price": "$3.59",
       "genres": [
         "Casual",
         "Indie",
@@ -69,51 +138,37 @@
       ]
     },
     {
-      "id": 4049170,
-      "name": "Disney/Pixar Toy Story: Retro Roundup!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4049170/678f17396b23817c2b9a61deff6aa067b6b28a8a/header.jpg?t=1792069202",
-      "release": "Oct 15, 2026",
+      "id": 5266790,
+      "name": "Vast Seas",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5266790/a4456b2f04ea374b1dc6a687c867e79d447f5531/header.jpg?t=1792158627",
+      "release": "Oct 16, 2026",
       "comingSoon": false,
-      "price": "$29.99",
+      "price": "$5.99",
       "genres": [
         "Action",
         "Adventure",
-        "Racing"
+        "Casual"
       ],
       "modes": [
+        "Co-op",
         "PvP",
         "Multi-player"
       ]
     },
     {
-      "id": 4049180,
-      "name": "Disney/Pixar Toy Story 3 Complete Edition",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4049180/8d4e4c2c303b6bca383f7d3473400236096fbca2/header.jpg?t=1792069190",
-      "release": "Oct 15, 2026",
+      "id": 2475280,
+      "name": "Card City Nights Forever",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2475280/bc57001abc44cad0af34b7537222fa3d671b5741/header.jpg?t=1792156484",
+      "release": "Oct 16, 2026",
       "comingSoon": false,
-      "price": "$24.99",
+      "price": "$19.99",
       "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "modes": [
-        "Co-op",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 2347080,
-      "name": "Frosthaven",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2347080/c6c09a8eb1a0fac5ac8e0d2ea0a228c8303d8967/header.jpg?t=1792068928",
-      "release": "Oct 15, 2026",
-      "comingSoon": false,
-      "price": "$27.99",
-      "genres": [
-        "RPG",
+        "Adventure",
+        "Indie",
         "Strategy"
       ],
       "modes": [
-        "Co-op",
+        "PvP",
         "Multi-player"
       ]
     }
