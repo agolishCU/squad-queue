@@ -1,18 +1,18 @@
 {
-  "scannedAt": "2026-10-16T16:40:13.145Z",
+  "scannedAt": "2026-10-17T15:35:48.439Z",
   "source": "Steam featured New Releases list",
   "games": [
     {
-      "id": 5298330,
-      "name": "Footage: FLIR",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5298330/49c790c81788e7f0704b0830e0c3714711d0526d/header.jpg?t=1792165110",
-      "release": "Oct 16, 2026",
+      "id": 3576670,
+      "name": "PATIENT ZERO",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3576670/67e6a02a07979445c4f9cee28037389a080ab4b5/header.jpg?t=1792245197",
+      "release": "Oct 17, 2026",
       "comingSoon": false,
-      "price": "$8.99",
+      "price": "$3.99",
       "genres": [
         "Action",
-        "Indie",
-        "Simulation"
+        "Adventure",
+        "Indie"
       ],
       "modes": [
         "Co-op",
@@ -20,16 +20,68 @@
       ]
     },
     {
-      "id": 5328820,
-      "name": "EmberQuest",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5328820/56dafbf811587f303af72b16af388c577751dac2/header.jpg?t=1792165039",
+      "id": 5280170,
+      "name": "AWAITING YOUR HORDERS",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5280170/2eb09890ef423da737338e6427440746dbac92c4/header.jpg?t=1792244587",
+      "release": "Oct 17, 2026",
+      "comingSoon": false,
+      "price": "$5.99",
+      "genres": [
+        "Action",
+        "Indie",
+        "Strategy"
+      ],
+      "modes": [
+        "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 1979510,
+      "name": "Madcar Multiplayer",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1979510/77f9d220c1d8b7f32999c52710ba1ccc8565fe87/header.jpg?t=1792239954",
+      "release": "Oct 17, 2026",
+      "comingSoon": false,
+      "price": "Free",
+      "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+      ],
+      "modes": [
+        "PvP",
+        "MMO",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 4729580,
+      "name": "Wolf Island",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4729580/37df5400a780b97ce3e0f1b804a4f19e907eef89/header.jpg?t=1792214708",
       "release": "Oct 16, 2026",
       "comingSoon": false,
       "price": "Free",
       "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+      ],
+      "modes": [
+        "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 4360980,
+      "name": "Ocean",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4360980/ce3c818856a18f9a4e23285907c71806dbabdac1/header.jpg?t=1792204600",
+      "release": "Oct 16, 2026",
+      "comingSoon": false,
+      "price": "Free",
+      "genres": [
+        "Adventure",
         "Casual",
-        "Massively Multiplayer",
-        "Free To Play"
+        "Indie"
       ],
       "modes": [
         "Co-op",
@@ -39,114 +91,14 @@
       ]
     },
     {
-      "id": 5220890,
-      "name": "Old Times",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5220890/ab0f7d54417e51ea824f99837ce7b3d6afd772e5/header.jpg?t=1792163814",
-      "release": "Oct 16, 2026",
-      "comingSoon": false,
-      "price": "Free",
-      "genres": [
-        "Casual",
-        "Strategy",
-        "Free To Play"
-      ],
-      "modes": [
-        "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 4071650,
-      "name": "Stream Train",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4071650/512c370a44998c759933c3f22be977cd26f336b5/header.jpg?t=1792164618",
-      "release": "Oct 16, 2026",
-      "comingSoon": false,
-      "price": "$5.19",
-      "genres": [
-        "Adventure"
-      ],
-      "modes": [
-        "Co-op",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5256770,
-      "name": "PropHuntFPS",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5256770/e5dd91054dc0ca2df089ab94396914025a1f6618/header.jpg?t=1792162755",
-      "release": "Oct 16, 2026",
-      "comingSoon": false,
-      "price": "Free",
-      "genres": [
-        "Action",
-        "Casual",
-        "Indie"
-      ],
-      "modes": [
-        "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 1271150,
-      "name": "Elsewhere",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1271150/f9f3ab575f9b5dfd9dc5b0da87fb3994830d99ed/header.jpg?t=1792162480",
-      "release": "Oct 16, 2026",
-      "comingSoon": false,
-      "price": "$11.19",
-      "genres": [
-        "Adventure",
-        "Indie"
-      ],
-      "modes": [
-        "Co-op",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 2493670,
-      "name": "Deja Vu : The Backrooms",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2493670/97b64cae49b5dbc23965c0892db7b9681ba1e327/header.jpg?t=1792159586",
-      "release": "Oct 16, 2026",
-      "comingSoon": false,
-      "price": "$8.99",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Indie"
-      ],
-      "modes": [
-        "Co-op",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 4935810,
-      "name": "VHS World '89",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4935810/9fcd047060ad857091f47b9292928a4faeeec673/header.jpg?t=1792159204",
-      "release": "Oct 16, 2026",
-      "comingSoon": false,
-      "price": "$3.59",
-      "genres": [
-        "Casual",
-        "Indie",
-        "Simulation"
-      ],
-      "modes": [
-        "Co-op",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5266790,
-      "name": "Vast Seas",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5266790/a4456b2f04ea374b1dc6a687c867e79d447f5531/header.jpg?t=1792158627",
+      "id": 5094120,
+      "name": "FPS Game",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5094120/4feb5e5b690cfb382ea600720b4ee15e0c9601e5/header.jpg?t=1792203098",
       "release": "Oct 16, 2026",
       "comingSoon": false,
       "price": "$5.99",
       "genres": [
         "Action",
-        "Adventure",
         "Casual"
       ],
       "modes": [
@@ -156,14 +108,14 @@
       ]
     },
     {
-      "id": 2475280,
-      "name": "Card City Nights Forever",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2475280/bc57001abc44cad0af34b7537222fa3d671b5741/header.jpg?t=1792156484",
+      "id": 5316940,
+      "name": "GRID64",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5316940/1c9b7a16f4d1f4f78102816c7adeb59b38db6247/header.jpg?t=1792193013",
       "release": "Oct 16, 2026",
       "comingSoon": false,
-      "price": "$19.99",
+      "price": "$2.69",
       "genres": [
-        "Adventure",
+        "Casual",
         "Indie",
         "Strategy"
       ],
