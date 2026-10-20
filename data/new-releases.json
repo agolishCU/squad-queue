@@ -1,34 +1,66 @@
 {
-  "scannedAt": "2026-10-19T18:43:22.306Z",
+  "scannedAt": "2026-10-20T17:09:47.215Z",
   "source": "Steam featured New Releases list",
   "games": [
     {
-      "id": 4889610,
-      "name": "Ice Cream Hero",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4889610/f59f10723a3bb0659bc0025f64c94d6f47dd8a77/header.jpg?t=1792433407",
-      "release": "Oct 19, 2026",
+      "id": 3506830,
+      "name": "Out of the Shadows",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3506830/header.jpg?t=1792512435",
+      "release": "Oct 20, 2026",
       "comingSoon": false,
-      "price": "Free",
+      "price": "$6.79",
+      "genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "modes": [
+        "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5109030,
+      "name": "HENTAI CHAMELEON",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5109030/4f218ac6685ecaf3fe874e2b886708b5120278d9/header.jpg?t=1792510180",
+      "release": "Oct 20, 2026",
+      "comingSoon": false,
+      "price": "$2.39",
       "genres": [
         "Action",
         "Casual",
         "Indie"
       ],
       "modes": [
-        "Co-op",
+        "PvP",
         "Multi-player"
       ]
     },
     {
-      "id": 3536520,
-      "name": "Warding Witches",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3536520/2c4b758da5fe80dd19fde1886cb5bf1ace59aef7/header.jpg?t=1792422790",
-      "release": "Oct 19, 2026",
+      "id": 5294600,
+      "name": "SHOGITOON",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5294600/a6c8a13ebff825209e5f0c58b898e4dbdc96f6d5/header.jpg?t=1792504540",
+      "release": "Oct 20, 2026",
       "comingSoon": false,
-      "price": "$9.74",
+      "price": "$2.99",
+      "genres": [
+        "Casual"
+      ],
+      "modes": [
+        "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 2315050,
+      "name": "We Were Here Tomorrow",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2315050/1e74865089e86e73fe7abefec0f5b59c1ce48305/header_alt_assets_3.jpg?t=1792501768",
+      "release": "Oct 20, 2026",
+      "comingSoon": false,
+      "price": "$17.99",
       "genres": [
         "Action",
-        "Indie"
+        "Adventure",
+        "Casual"
       ],
       "modes": [
         "Co-op",
@@ -36,16 +68,15 @@
       ]
     },
     {
-      "id": 1024950,
-      "name": "Starship Horizons: Bridge Simulator",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1024950/header.jpg?t=1792420333",
-      "release": "Oct 19, 2026",
+      "id": 5283850,
+      "name": "Trick or Eat",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5283850/cb8088a1c867a8001701247f763088e08a5cd465/header.jpg?t=1792499982",
+      "release": "Oct 20, 2026",
       "comingSoon": false,
-      "price": "$49.99",
+      "price": "$5.94",
       "genres": [
         "Action",
-        "Indie",
-        "Simulation"
+        "Casual"
       ],
       "modes": [
         "Co-op",
@@ -54,47 +85,49 @@
       ]
     },
     {
-      "id": 5126160,
-      "name": "Tall Orders",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5126160/0b4dc97c98bca76965182f3186ea95b06b86e588/header.jpg?t=1792418432",
-      "release": "Oct 19, 2026",
+      "id": 3645890,
+      "name": "GONE Fishing",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3645890/ccf41cdf893f47a5a692f05e2344df5e2fdeb3d9/header_alt_assets_0.jpg?t=1792492815",
+      "release": "Oct 20, 2026",
+      "comingSoon": false,
+      "price": "$6.69",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+      ],
+      "modes": [
+        "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5224050,
+      "name": "Random & Unfair Battlefields",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5224050/382ae673831ac9ab9beaf20f9b63b650f558dfef/header.jpg?t=1792491532",
+      "release": "Oct 20, 2026",
       "comingSoon": false,
       "price": "Free",
       "genres": [
         "Casual",
         "Indie",
-        "Free To Play"
+        "Massively Multiplayer"
       ],
       "modes": [
-        "Co-op",
+        "PvP",
         "Multi-player"
       ]
     },
     {
-      "id": 5329410,
-      "name": "Shark Tales: Reef Rogues",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5329410/9ffbec0caf7003291105666953c2a5ab931c2173/header.jpg?t=1792409823",
-      "release": "Oct 19, 2026",
+      "id": 5327190,
+      "name": "Sloptoberfest",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5327190/ecb2b6cb745165f8b99785af6dc092d98229e918/header.jpg?t=1792496560",
+      "release": "Oct 20, 2026",
       "comingSoon": false,
-      "price": "$5.99",
+      "price": "$6.99",
       "genres": [
-        "Action",
-        "Indie"
-      ],
-      "modes": [
-        "Co-op",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5363850,
-      "name": "Patients",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5363850/a178508ca42c334c0f2a72527465e967b060eb6b/header.jpg?t=1792404730",
-      "release": "Oct 19, 2026",
-      "comingSoon": false,
-      "price": "$2.69",
-      "genres": [
-        "Indie"
+        "Indie",
+        "Simulation"
       ],
       "modes": [
         "Co-op",
