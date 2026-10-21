@@ -1,62 +1,14 @@
 {
-  "scannedAt": "2026-10-20T17:09:47.215Z",
+  "scannedAt": "2026-10-21T17:12:57.424Z",
   "source": "Steam featured New Releases list",
   "games": [
     {
-      "id": 3506830,
-      "name": "Out of the Shadows",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3506830/header.jpg?t=1792512435",
-      "release": "Oct 20, 2026",
+      "id": 4024600,
+      "name": "Pyramidion",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4024600/eabee53407b333903f098d1590c21ed4b5ada92e/header.jpg?t=1792599586",
+      "release": "Oct 21, 2026",
       "comingSoon": false,
-      "price": "$6.79",
-      "genres": [
-        "Adventure",
-        "Indie"
-      ],
-      "modes": [
-        "Co-op",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5109030,
-      "name": "HENTAI CHAMELEON",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5109030/4f218ac6685ecaf3fe874e2b886708b5120278d9/header.jpg?t=1792510180",
-      "release": "Oct 20, 2026",
-      "comingSoon": false,
-      "price": "$2.39",
-      "genres": [
-        "Action",
-        "Casual",
-        "Indie"
-      ],
-      "modes": [
-        "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5294600,
-      "name": "SHOGITOON",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5294600/a6c8a13ebff825209e5f0c58b898e4dbdc96f6d5/header.jpg?t=1792504540",
-      "release": "Oct 20, 2026",
-      "comingSoon": false,
-      "price": "$2.99",
-      "genres": [
-        "Casual"
-      ],
-      "modes": [
-        "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 2315050,
-      "name": "We Were Here Tomorrow",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2315050/1e74865089e86e73fe7abefec0f5b59c1ce48305/header_alt_assets_3.jpg?t=1792501768",
-      "release": "Oct 20, 2026",
-      "comingSoon": false,
-      "price": "$17.99",
+      "price": "$6.39",
       "genres": [
         "Action",
         "Adventure",
@@ -68,32 +20,13 @@
       ]
     },
     {
-      "id": 5283850,
-      "name": "Trick or Eat",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5283850/cb8088a1c867a8001701247f763088e08a5cd465/header.jpg?t=1792499982",
-      "release": "Oct 20, 2026",
+      "id": 5134560,
+      "name": "DON'T SWITCH",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5134560/8d5150fa4b5b93dc1110746454ec5493274eacba/header.jpg?t=1792599378",
+      "release": "Oct 21, 2026",
       "comingSoon": false,
-      "price": "$5.94",
+      "price": "$3.00",
       "genres": [
-        "Action",
-        "Casual"
-      ],
-      "modes": [
-        "Co-op",
-        "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 3645890,
-      "name": "GONE Fishing",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3645890/ccf41cdf893f47a5a692f05e2344df5e2fdeb3d9/header_alt_assets_0.jpg?t=1792492815",
-      "release": "Oct 20, 2026",
-      "comingSoon": false,
-      "price": "$6.69",
-      "genres": [
-        "Action",
-        "Adventure",
         "Indie"
       ],
       "modes": [
@@ -102,16 +35,51 @@
       ]
     },
     {
-      "id": 5224050,
-      "name": "Random & Unfair Battlefields",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5224050/382ae673831ac9ab9beaf20f9b63b650f558dfef/header.jpg?t=1792491532",
-      "release": "Oct 20, 2026",
+      "id": 4731070,
+      "name": "Kron Wars",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4731070/ac71c3e4b05eb6bdc59e082cef36c34cbc67466a/header.jpg?t=1792595328",
+      "release": "Oct 21, 2026",
       "comingSoon": false,
       "price": "Free",
       "genres": [
-        "Casual",
         "Indie",
-        "Massively Multiplayer"
+        "Massively Multiplayer",
+        "RPG"
+      ],
+      "modes": [
+        "Co-op",
+        "PvP",
+        "MMO",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 4996960,
+      "name": "Handle with Care!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4996960/bc4e39764e55fed00f9509a92133eeb9bef8d8eb/header.jpg?t=1792587695",
+      "release": "Oct 21, 2026",
+      "comingSoon": false,
+      "price": "$4.89",
+      "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+      ],
+      "modes": [
+        "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5281130,
+      "name": "PunchMonkey",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5281130/f93bbc30f18ec6f77a7a68a60f728268bc3d8a4b/header.jpg?t=1792592337",
+      "release": "Oct 21, 2026",
+      "comingSoon": false,
+      "price": "$1.99",
+      "genres": [
+        "Casual",
+        "Simulation"
       ],
       "modes": [
         "PvP",
@@ -119,18 +87,20 @@
       ]
     },
     {
-      "id": 5327190,
-      "name": "Sloptoberfest",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5327190/ecb2b6cb745165f8b99785af6dc092d98229e918/header.jpg?t=1792496560",
-      "release": "Oct 20, 2026",
+      "id": 5087740,
+      "name": "Yakiniku!!!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5087740/9eec768c23de95d997612114c88746a9b490bf7b/header.jpg?t=1792584241",
+      "release": "Oct 21, 2026",
       "comingSoon": false,
-      "price": "$6.99",
+      "price": "$12.74",
       "genres": [
+        "Casual",
         "Indie",
         "Simulation"
       ],
       "modes": [
         "Co-op",
+        "PvP",
         "Multi-player"
       ]
     }
