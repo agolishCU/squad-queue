@@ -1,69 +1,33 @@
 {
-  "scannedAt": "2026-10-21T17:12:57.424Z",
+  "scannedAt": "2026-10-22T17:11:08.941Z",
   "source": "Steam featured New Releases list",
   "games": [
     {
-      "id": 4024600,
-      "name": "Pyramidion",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4024600/eabee53407b333903f098d1590c21ed4b5ada92e/header.jpg?t=1792599586",
-      "release": "Oct 21, 2026",
+      "id": 4297360,
+      "name": "Burg Tag",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4297360/e604ca5c7378772263520888eb5a989a1ce5a079/header.jpg?t=1792683612",
+      "release": "Oct 22, 2026",
       "comingSoon": false,
-      "price": "$6.39",
+      "price": "$4.24",
       "genres": [
         "Action",
-        "Adventure",
-        "Casual"
-      ],
-      "modes": [
-        "Co-op",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5134560,
-      "name": "DON'T SWITCH",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5134560/8d5150fa4b5b93dc1110746454ec5493274eacba/header.jpg?t=1792599378",
-      "release": "Oct 21, 2026",
-      "comingSoon": false,
-      "price": "$3.00",
-      "genres": [
         "Indie"
       ],
       "modes": [
-        "Co-op",
+        "PvP",
         "Multi-player"
       ]
     },
     {
-      "id": 4731070,
-      "name": "Kron Wars",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4731070/ac71c3e4b05eb6bdc59e082cef36c34cbc67466a/header.jpg?t=1792595328",
-      "release": "Oct 21, 2026",
+      "id": 3996350,
+      "name": "Sawad | سواد",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3996350/beb11595ed72c487059743f92e25b7594015876e/header.jpg?t=1792683555",
+      "release": "Oct 22, 2026",
       "comingSoon": false,
-      "price": "Free",
+      "price": "$7.19",
       "genres": [
         "Indie",
-        "Massively Multiplayer",
-        "RPG"
-      ],
-      "modes": [
-        "Co-op",
-        "PvP",
-        "MMO",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 4996960,
-      "name": "Handle with Care!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4996960/bc4e39764e55fed00f9509a92133eeb9bef8d8eb/header.jpg?t=1792587695",
-      "release": "Oct 21, 2026",
-      "comingSoon": false,
-      "price": "$4.89",
-      "genres": [
-        "Action",
-        "Casual",
-        "Indie"
+        "Massively Multiplayer"
       ],
       "modes": [
         "Co-op",
@@ -71,28 +35,43 @@
       ]
     },
     {
-      "id": 5281130,
-      "name": "PunchMonkey",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5281130/f93bbc30f18ec6f77a7a68a60f728268bc3d8a4b/header.jpg?t=1792592337",
-      "release": "Oct 21, 2026",
+      "id": 4776200,
+      "name": "Gold Admiral",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4776200/964ebc98c345ede6cc6406eadb7244c9c0748de3/header.jpg?t=1792681906",
+      "release": "Oct 22, 2026",
       "comingSoon": false,
-      "price": "$1.99",
+      "price": "$35.99",
       "genres": [
-        "Casual",
-        "Simulation"
+        "Strategy"
       ],
       "modes": [
+        "Co-op",
         "PvP",
         "Multi-player"
       ]
     },
     {
-      "id": 5087740,
-      "name": "Yakiniku!!!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5087740/9eec768c23de95d997612114c88746a9b490bf7b/header.jpg?t=1792584241",
-      "release": "Oct 21, 2026",
+      "id": 4258480,
+      "name": "Gun Up",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258480/8c061fd4d905d33703db16853e06b15f5abdf2a9/header.jpg?t=1792679847",
+      "release": "Oct 22, 2026",
       "comingSoon": false,
-      "price": "$12.74",
+      "price": "$3.59",
+      "genres": [
+        "Action"
+      ],
+      "modes": [
+        "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 3154800,
+      "name": "Football Pitch Simulator",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3154800/5889685841bf138c6bda4be8ace5412a42324fea/header.jpg?t=1792676183",
+      "release": "Oct 22, 2026",
+      "comingSoon": false,
+      "price": "$5.99",
       "genres": [
         "Casual",
         "Indie",
@@ -100,7 +79,6 @@
       ],
       "modes": [
         "Co-op",
-        "PvP",
         "Multi-player"
       ]
     }
