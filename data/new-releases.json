@@ -1,16 +1,68 @@
 {
-  "scannedAt": "2026-10-22T17:11:08.941Z",
+  "scannedAt": "2026-10-23T17:07:47.043Z",
   "source": "Steam featured New Releases list",
   "games": [
     {
-      "id": 4297360,
-      "name": "Burg Tag",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4297360/e604ca5c7378772263520888eb5a989a1ce5a079/header.jpg?t=1792683612",
-      "release": "Oct 22, 2026",
+      "id": 1566200,
+      "name": "Tape to Tape",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1566200/8a10ac73d753b68c2ed09298ce98ee12a225fd3b/header_alt_assets_2.jpg?t=1792771268",
+      "release": "Oct 23, 2026",
       "comingSoon": false,
-      "price": "$4.24",
+      "price": "$17.99",
       "genres": [
         "Action",
+        "Sports"
+      ],
+      "modes": [
+        "Co-op",
+        "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 4577050,
+      "name": "ARCASCIAN",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4577050/87e07663706e8bd98eb2528c11750b95c048f296/header.jpg?t=1792771268",
+      "release": "Oct 23, 2026",
+      "comingSoon": false,
+      "price": "$2.00",
+      "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+      ],
+      "modes": [
+        "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5259850,
+      "name": "Holy Shroom!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5259850/b266532cd80d47f94887d667989af88522d986f4/header.jpg?t=1792771244",
+      "release": "Oct 23, 2026",
+      "comingSoon": false,
+      "price": "$4.79",
+      "genres": [
+        "Action",
+        "Indie",
+        "Simulation"
+      ],
+      "modes": [
+        "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5376710,
+      "name": "CloudBurst",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5376710/8681b49a26199e375c8cba635fdae60efa8657ea/header.jpg?t=1792767452",
+      "release": "Oct 23, 2026",
+      "comingSoon": false,
+      "price": "$3.99",
+      "genres": [
+        "Action",
+        "Casual",
         "Indie"
       ],
       "modes": [
@@ -19,15 +71,16 @@
       ]
     },
     {
-      "id": 3996350,
-      "name": "Sawad | سواد",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3996350/beb11595ed72c487059743f92e25b7594015876e/header.jpg?t=1792683555",
-      "release": "Oct 22, 2026",
+      "id": 5251070,
+      "name": "Want a Bomb?",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5251070/a1dbff7b92f39399b77f23f4f7e5677aa11ba253/header.jpg?t=1792766908",
+      "release": "Oct 23, 2026",
       "comingSoon": false,
-      "price": "$7.19",
+      "price": "$5.59",
       "genres": [
-        "Indie",
-        "Massively Multiplayer"
+        "Action",
+        "Adventure",
+        "Casual"
       ],
       "modes": [
         "Co-op",
@@ -35,47 +88,15 @@
       ]
     },
     {
-      "id": 4776200,
-      "name": "Gold Admiral",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4776200/964ebc98c345ede6cc6406eadb7244c9c0748de3/header.jpg?t=1792681906",
-      "release": "Oct 22, 2026",
+      "id": 5300960,
+      "name": "KEEP IT ON HER",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5300960/2ad1f67841420bfeb70d942c8b219589897fa442/header.jpg?t=1792759047",
+      "release": "Oct 23, 2026",
       "comingSoon": false,
-      "price": "$35.99",
+      "price": "$2.69",
       "genres": [
-        "Strategy"
-      ],
-      "modes": [
-        "Co-op",
-        "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 4258480,
-      "name": "Gun Up",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258480/8c061fd4d905d33703db16853e06b15f5abdf2a9/header.jpg?t=1792679847",
-      "release": "Oct 22, 2026",
-      "comingSoon": false,
-      "price": "$3.59",
-      "genres": [
-        "Action"
-      ],
-      "modes": [
-        "Co-op",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 3154800,
-      "name": "Football Pitch Simulator",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3154800/5889685841bf138c6bda4be8ace5412a42324fea/header.jpg?t=1792676183",
-      "release": "Oct 22, 2026",
-      "comingSoon": false,
-      "price": "$5.99",
-      "genres": [
-        "Casual",
-        "Indie",
-        "Simulation"
+        "Adventure",
+        "Indie"
       ],
       "modes": [
         "Co-op",
