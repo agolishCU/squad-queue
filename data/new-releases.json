@@ -1,104 +1,84 @@
 {
-  "scannedAt": "2026-10-24T15:57:26.413Z",
+  "scannedAt": "2026-10-25T16:19:52.819Z",
   "source": "Steam featured New Releases list",
   "games": [
     {
-      "id": 4999150,
-      "name": "Chesstria",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4999150/3a43dc5f6cd51ed7e3c5c0d65a8b180c1a8c0404/header.jpg?t=1792850403",
-      "release": "Oct 24, 2026",
-      "comingSoon": false,
-      "price": "$11.99",
-      "genres": [
-        "Casual",
-        "Indie",
-        "RPG"
-      ],
-      "modes": [
-        "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 4343600,
-      "name": "Mo Wu Tian Gong",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4343600/616083ae1eb5a045c92fffe9e3a2f85fa1d49ebd/header.jpg?t=1792848227",
-      "release": "Oct 24, 2026",
-      "comingSoon": false,
-      "price": "$1.79",
-      "genres": [
-        "Action",
-        "Adventure",
-        "RPG"
-      ],
-      "modes": [
-        "Co-op",
-        "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5040820,
-      "name": "Hide Your Cash",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5040820/2f866032b8af27235655c9b5ca74582e98313b0e/header.jpg?t=1792847534",
-      "release": "Oct 24, 2026",
-      "comingSoon": false,
-      "price": "$5.99",
-      "genres": [
-        "Casual",
-        "Indie"
-      ],
-      "modes": [
-        "Co-op",
-        "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 3282980,
-      "name": "Urbex Murder",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3282980/header.jpg?t=1792844554",
-      "release": "Oct 24, 2026",
-      "comingSoon": false,
-      "price": "$3.99",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Indie"
-      ],
-      "modes": [
-        "Co-op",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5295630,
-      "name": "Wok King",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5295630/ef9f14cdad5f5a7722451158b774af121aeb10c5/header.jpg?t=1792823543",
-      "release": "Oct 23, 2026",
-      "comingSoon": false,
-      "price": "$2.09",
-      "genres": [
-        "Casual",
-        "Indie",
-        "Simulation"
-      ],
-      "modes": [
-        "Co-op",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5365450,
-      "name": "BRASS: Hard Contact",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5365450/5980fdb380f6ef344bae08b8e688e797f957fac4/header.jpg?t=1792810987",
-      "release": "Oct 23, 2026",
+      "id": 5198690,
+      "name": "Balance Due",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5198690/e8caf7fc50aba604a834bd929eb86ce8e3258a83/header.jpg?t=1792940729",
+      "release": "Oct 25, 2026",
       "comingSoon": false,
       "price": "Free",
       "genres": [
         "Action",
-        "Indie",
-        "Free To Play"
+        "Adventure",
+        "Indie"
+      ],
+      "modes": [
+        "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5074470,
+      "name": "Stellar Embers: United Fleet",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5074470/0c1cb4cda7d012890d24b0fd46fe7108e36ca953/header.jpg?t=1792923269",
+      "release": "Oct 25, 2026",
+      "comingSoon": false,
+      "price": "$3.74",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+      ],
+      "modes": [
+        "Co-op",
+        "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5378020,
+      "name": "Blamcon's Cyber Range",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5378020/9892acffc2aa1fb2c3605b07893803f790cbc553/header.jpg?t=1792887759",
+      "release": "Oct 24, 2026",
+      "comingSoon": false,
+      "price": "$5.24",
+      "genres": [
+        "Simulation",
+        "Sports"
+      ],
+      "modes": [
+        "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 3752410,
+      "name": "Dispatch Control",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3752410/a8728050be2e15452baeeae35568c7111d9053c4/header.jpg?t=1792930412",
+      "release": "Oct 24, 2026",
+      "comingSoon": false,
+      "price": "$1.19",
+      "genres": [
+        "Simulation",
+        "Strategy"
+      ],
+      "modes": [
+        "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 4709550,
+      "name": "Behind the Corner",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4709550/ff067adc322fe8522b8775b0a55f8f5a8dd01fcb/header.jpg?t=1792861209",
+      "release": "Oct 24, 2026",
+      "comingSoon": false,
+      "price": "$8.49",
+      "genres": [
+        "Action",
+        "Indie"
       ],
       "modes": [
         "Co-op",
