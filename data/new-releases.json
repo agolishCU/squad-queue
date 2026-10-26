@@ -1,17 +1,17 @@
 {
-  "scannedAt": "2026-10-25T16:19:52.819Z",
+  "scannedAt": "2026-10-26T18:41:17.858Z",
   "source": "Steam featured New Releases list",
   "games": [
     {
-      "id": 5198690,
-      "name": "Balance Due",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5198690/e8caf7fc50aba604a834bd929eb86ce8e3258a83/header.jpg?t=1792940729",
-      "release": "Oct 25, 2026",
+      "id": 5316360,
+      "name": "Fully Funded",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5316360/495372f1ca7e62bea9ba0d344464330e697f7f3e/header.jpg?t=1793034441",
+      "release": "Oct 26, 2026",
       "comingSoon": false,
-      "price": "Free",
+      "price": "$5.09",
       "genres": [
-        "Action",
         "Adventure",
+        "Casual",
         "Indie"
       ],
       "modes": [
@@ -20,48 +20,15 @@
       ]
     },
     {
-      "id": 5074470,
-      "name": "Stellar Embers: United Fleet",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5074470/0c1cb4cda7d012890d24b0fd46fe7108e36ca953/header.jpg?t=1792923269",
-      "release": "Oct 25, 2026",
+      "id": 3768800,
+      "name": "Shopska Salad",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768800/28085c0fe1c77fba5d0c3a7101872f9ac526dfc6/header.jpg?t=1793034228",
+      "release": "Oct 26, 2026",
       "comingSoon": false,
-      "price": "$3.74",
+      "price": "$4.79",
       "genres": [
-        "Action",
         "Adventure",
-        "Indie"
-      ],
-      "modes": [
-        "Co-op",
-        "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5378020,
-      "name": "Blamcon's Cyber Range",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5378020/9892acffc2aa1fb2c3605b07893803f790cbc553/header.jpg?t=1792887759",
-      "release": "Oct 24, 2026",
-      "comingSoon": false,
-      "price": "$5.24",
-      "genres": [
-        "Simulation",
-        "Sports"
-      ],
-      "modes": [
-        "Co-op",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 3752410,
-      "name": "Dispatch Control",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3752410/a8728050be2e15452baeeae35568c7111d9053c4/header.jpg?t=1792930412",
-      "release": "Oct 24, 2026",
-      "comingSoon": false,
-      "price": "$1.19",
-      "genres": [
-        "Simulation",
+        "Indie",
         "Strategy"
       ],
       "modes": [
@@ -70,18 +37,99 @@
       ]
     },
     {
-      "id": 4709550,
-      "name": "Behind the Corner",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4709550/ff067adc322fe8522b8775b0a55f8f5a8dd01fcb/header.jpg?t=1792861209",
-      "release": "Oct 24, 2026",
+      "id": 3815750,
+      "name": "SEVERANCE",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3815750/06e6f359bcde19d12a965368a12597c2d5572be4/header.jpg?t=1793035138",
+      "release": "Oct 26, 2026",
       "comingSoon": false,
-      "price": "$8.49",
+      "price": "$7.49",
       "genres": [
         "Action",
+        "Indie",
+        "Free To Play"
+      ],
+      "modes": [
+        "Co-op",
+        "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 1407560,
+      "name": "Hot Mic",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1407560/f538cb2b25094829ce6cd1b0b87328a62d2819f3/header.jpg?t=1793033977",
+      "release": "Oct 26, 2026",
+      "comingSoon": false,
+      "price": "Free",
+      "genres": [
+        "Casual",
+        "Indie",
+        "Free To Play"
+      ],
+      "modes": [
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5015300,
+      "name": "Twinblocks",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5015300/f6cf1959dd495d42263e6cad06050996b6653fe2/header.jpg?t=1793032549",
+      "release": "Oct 26, 2026",
+      "comingSoon": false,
+      "price": "$3.99",
+      "genres": [
+        "Casual",
+        "Indie"
+      ],
+      "modes": [
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 4312190,
+      "name": "CRACK",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4312190/9dfa7d4efdcc88aa5663a31f02633391eb5ef843/header.jpg?t=1793035699",
+      "release": "Oct 26, 2026",
+      "comingSoon": false,
+      "price": "$6.79",
+      "genres": [
+        "Adventure",
+        "Simulation"
+      ],
+      "modes": [
+        "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5210830,
+      "name": "The Halloway Haunting",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5210830/677011cab80b24f601d5a4101596ce4c184389bb/header.jpg?t=1793030568",
+      "release": "Oct 26, 2026",
+      "comingSoon": false,
+      "price": "$4.24",
+      "genres": [
+        "Action",
+        "Adventure",
         "Indie"
       ],
       "modes": [
         "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5224910,
+      "name": "Backwards",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5224910/2f424b9d8194b642d342b85b87d43d94831996c2/header.jpg?t=1793030472",
+      "release": "Oct 26, 2026",
+      "comingSoon": false,
+      "price": "$6.99",
+      "genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "modes": [
         "PvP",
         "Multi-player"
       ]
