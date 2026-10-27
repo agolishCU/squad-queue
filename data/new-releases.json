@@ -1,99 +1,49 @@
 {
-  "scannedAt": "2026-10-26T18:41:17.858Z",
+  "scannedAt": "2026-10-27T18:01:16.565Z",
   "source": "Steam featured New Releases list",
   "games": [
     {
-      "id": 5316360,
-      "name": "Fully Funded",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5316360/495372f1ca7e62bea9ba0d344464330e697f7f3e/header.jpg?t=1793034441",
-      "release": "Oct 26, 2026",
+      "id": 4849240,
+      "name": "Duel: The Game Show",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849240/3f224a642131c5b7ec8911bf54f7ebe767e68a88/header.jpg?t=1793120507",
+      "release": "Oct 27, 2026",
       "comingSoon": false,
-      "price": "$5.09",
+      "price": "$6.49",
       "genres": [
-        "Adventure",
-        "Casual",
-        "Indie"
+        "Casual"
       ],
       "modes": [
-        "Co-op",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 3768800,
-      "name": "Shopska Salad",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768800/28085c0fe1c77fba5d0c3a7101872f9ac526dfc6/header.jpg?t=1793034228",
-      "release": "Oct 26, 2026",
-      "comingSoon": false,
-      "price": "$4.79",
-      "genres": [
-        "Adventure",
-        "Indie",
-        "Strategy"
-      ],
-      "modes": [
-        "Co-op",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 3815750,
-      "name": "SEVERANCE",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3815750/06e6f359bcde19d12a965368a12597c2d5572be4/header.jpg?t=1793035138",
-      "release": "Oct 26, 2026",
-      "comingSoon": false,
-      "price": "$7.49",
-      "genres": [
-        "Action",
-        "Indie",
-        "Free To Play"
-      ],
-      "modes": [
-        "Co-op",
         "PvP",
         "Multi-player"
       ]
     },
     {
-      "id": 1407560,
-      "name": "Hot Mic",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1407560/f538cb2b25094829ce6cd1b0b87328a62d2819f3/header.jpg?t=1793033977",
-      "release": "Oct 26, 2026",
+      "id": 5247240,
+      "name": "MEGA TAG PANIC",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5247240/e015a2dfdb86f42ea1eea64066ba6af2ca6752c1/header.jpg?t=1793120439",
+      "release": "Oct 27, 2026",
       "comingSoon": false,
-      "price": "Free",
+      "price": "$4.79",
       "genres": [
-        "Casual",
-        "Indie",
-        "Free To Play"
-      ],
-      "modes": [
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5015300,
-      "name": "Twinblocks",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5015300/f6cf1959dd495d42263e6cad06050996b6653fe2/header.jpg?t=1793032549",
-      "release": "Oct 26, 2026",
-      "comingSoon": false,
-      "price": "$3.99",
-      "genres": [
+        "Action",
         "Casual",
         "Indie"
       ],
       "modes": [
+        "PvP",
         "Multi-player"
       ]
     },
     {
-      "id": 4312190,
-      "name": "CRACK",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4312190/9dfa7d4efdcc88aa5663a31f02633391eb5ef843/header.jpg?t=1793035699",
-      "release": "Oct 26, 2026",
+      "id": 5042370,
+      "name": "Octbuster: Video Rental Store Cleanup",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5042370/acea93114d0d8067e44478c6917a95b072ebf279/header_alt_assets_0.jpg?t=1793120407",
+      "release": "Oct 27, 2026",
       "comingSoon": false,
-      "price": "$6.79",
+      "price": "$8.99",
       "genres": [
-        "Adventure",
+        "Casual",
+        "Indie",
         "Simulation"
       ],
       "modes": [
@@ -102,15 +52,32 @@
       ]
     },
     {
-      "id": 5210830,
-      "name": "The Halloway Haunting",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5210830/677011cab80b24f601d5a4101596ce4c184389bb/header.jpg?t=1793030568",
-      "release": "Oct 26, 2026",
+      "id": 5140020,
+      "name": "Junkyard Astronauts",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5140020/9a7327ac000ae2e392bab43be1e696ca49b08b90/header.jpg?t=1793120287",
+      "release": "Oct 27, 2026",
       "comingSoon": false,
-      "price": "$4.24",
+      "price": "$4.97",
       "genres": [
         "Action",
-        "Adventure",
+        "Casual",
+        "Indie"
+      ],
+      "modes": [
+        "Co-op",
+        "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 3035770,
+      "name": "Pawnie: Focus Pals",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3035770/5bf73f369d1f6b751cf910aade188aa14baced1c/header.jpg?t=1793113376",
+      "release": "Oct 27, 2026",
+      "comingSoon": false,
+      "price": "$7.99",
+      "genres": [
+        "Casual",
         "Indie"
       ],
       "modes": [
@@ -119,18 +86,19 @@
       ]
     },
     {
-      "id": 5224910,
-      "name": "Backwards",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5224910/2f424b9d8194b642d342b85b87d43d94831996c2/header.jpg?t=1793030472",
-      "release": "Oct 26, 2026",
+      "id": 5308550,
+      "name": "Tsukumo SNAP!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5308550/f13db67847a6b0c5f9f446628f7a4b31dc69431e/header.jpg?t=1793113264",
+      "release": "Oct 27, 2026",
       "comingSoon": false,
-      "price": "$6.99",
+      "price": "$8.49",
       "genres": [
         "Adventure",
-        "Indie"
+        "Indie",
+        "RPG"
       ],
       "modes": [
-        "PvP",
+        "Co-op",
         "Multi-player"
       ]
     }
