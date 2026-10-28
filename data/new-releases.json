@@ -1,63 +1,32 @@
 {
-  "scannedAt": "2026-10-27T18:01:16.565Z",
+  "scannedAt": "2026-10-28T18:21:19.592Z",
   "source": "Steam featured New Releases list",
   "games": [
     {
-      "id": 4849240,
-      "name": "Duel: The Game Show",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849240/3f224a642131c5b7ec8911bf54f7ebe767e68a88/header.jpg?t=1793120507",
-      "release": "Oct 27, 2026",
+      "id": 5191970,
+      "name": "Mimic2 - Idle MMORPG",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5191970/02fe7e50681f59c096634f12d10123f488508338/header.jpg?t=1793206762",
+      "release": "Oct 28, 2026",
       "comingSoon": false,
-      "price": "$6.49",
-      "genres": [
-        "Casual"
-      ],
-      "modes": [
-        "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5247240,
-      "name": "MEGA TAG PANIC",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5247240/e015a2dfdb86f42ea1eea64066ba6af2ca6752c1/header.jpg?t=1793120439",
-      "release": "Oct 27, 2026",
-      "comingSoon": false,
-      "price": "$4.79",
-      "genres": [
-        "Action",
-        "Casual",
-        "Indie"
-      ],
-      "modes": [
-        "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5042370,
-      "name": "Octbuster: Video Rental Store Cleanup",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5042370/acea93114d0d8067e44478c6917a95b072ebf279/header_alt_assets_0.jpg?t=1793120407",
-      "release": "Oct 27, 2026",
-      "comingSoon": false,
-      "price": "$8.99",
+      "price": "Free",
       "genres": [
         "Casual",
         "Indie",
-        "Simulation"
+        "Massively Multiplayer"
       ],
       "modes": [
-        "Co-op",
+        "PvP",
+        "MMO",
         "Multi-player"
       ]
     },
     {
-      "id": 5140020,
-      "name": "Junkyard Astronauts",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5140020/9a7327ac000ae2e392bab43be1e696ca49b08b90/header.jpg?t=1793120287",
-      "release": "Oct 27, 2026",
+      "id": 4535960,
+      "name": "Voxie Survivor",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4535960/58fdcbfc442f98c6b05aa2e69db6fd2693299510/header.jpg?t=1793205560",
+      "release": "Oct 28, 2026",
       "comingSoon": false,
-      "price": "$4.97",
+      "price": "$12.59",
       "genres": [
         "Action",
         "Casual",
@@ -65,40 +34,73 @@
       ],
       "modes": [
         "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 1287150,
+      "name": "Pulseball",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1287150/header.jpg?t=1793204378",
+      "release": "Oct 28, 2026",
+      "comingSoon": false,
+      "price": "$7.09",
+      "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+      ],
+      "modes": [
         "PvP",
         "Multi-player"
       ]
     },
     {
-      "id": 3035770,
-      "name": "Pawnie: Focus Pals",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3035770/5bf73f369d1f6b751cf910aade188aa14baced1c/header.jpg?t=1793113376",
-      "release": "Oct 27, 2026",
+      "id": 4648890,
+      "name": "Intergalactic Puzzle Touchdown",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4648890/b6213131eb3efeed75e5d764d06b54c73ee2be8c/header.jpg?t=1793203763",
+      "release": "Oct 28, 2026",
       "comingSoon": false,
-      "price": "$7.99",
+      "price": "$4.49",
       "genres": [
         "Casual",
-        "Indie"
+        "Indie",
+        "Sports"
       ],
       "modes": [
-        "Co-op",
+        "PvP",
         "Multi-player"
       ]
     },
     {
-      "id": 5308550,
-      "name": "Tsukumo SNAP!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5308550/f13db67847a6b0c5f9f446628f7a4b31dc69431e/header.jpg?t=1793113264",
-      "release": "Oct 27, 2026",
+      "id": 4057670,
+      "name": "The Midnighters",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4057670/2e0c7df5888b3c1ecae84109fd8e434e5758e272/header.jpg?t=1793203180",
+      "release": "Oct 28, 2026",
       "comingSoon": false,
-      "price": "$8.49",
+      "price": "$3.74",
       "genres": [
+        "Action",
         "Adventure",
-        "Indie",
-        "RPG"
+        "Indie"
       ],
       "modes": [
         "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5369000,
+      "name": "Crownmason",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5369000/7c99ed7fd1e8bac1980777f52cbad26d3da42499/header.jpg?t=1793202921",
+      "release": "Oct 28, 2026",
+      "comingSoon": false,
+      "price": "$10.49",
+      "genres": [
+        "Indie",
+        "Strategy"
+      ],
+      "modes": [
+        "PvP",
         "Multi-player"
       ]
     }
