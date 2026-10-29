@@ -1,34 +1,50 @@
 {
-  "scannedAt": "2026-10-28T18:21:19.592Z",
+  "scannedAt": "2026-10-29T18:28:43.587Z",
   "source": "Steam featured New Releases list",
   "games": [
     {
-      "id": 5191970,
-      "name": "Mimic2 - Idle MMORPG",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5191970/02fe7e50681f59c096634f12d10123f488508338/header.jpg?t=1793206762",
-      "release": "Oct 28, 2026",
+      "id": 4450390,
+      "name": "Laguna Rosa: A long story with reckless consequences",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4450390/245c9239a1d3f32f18a4bf462da05104fbfd7165/header_alt_assets_1.jpg?t=1793295935",
+      "release": "Oct 29, 2026",
       "comingSoon": false,
       "price": "Free",
       "genres": [
+        "Adventure",
         "Casual",
-        "Indie",
         "Massively Multiplayer"
       ],
       "modes": [
         "PvP",
-        "MMO",
         "Multi-player"
       ]
     },
     {
-      "id": 4535960,
-      "name": "Voxie Survivor",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4535960/58fdcbfc442f98c6b05aa2e69db6fd2693299510/header.jpg?t=1793205560",
-      "release": "Oct 28, 2026",
+      "id": 5103050,
+      "name": "Chaos Chess",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5103050/8aa8f448f2d8e6f4e9db47a76bff1fbaff594bd4/header.jpg?t=1793294454",
+      "release": "Oct 29, 2026",
       "comingSoon": false,
-      "price": "$12.59",
+      "price": "$3.00",
       "genres": [
-        "Action",
+        "Indie",
+        "RPG",
+        "Strategy"
+      ],
+      "modes": [
+        "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 4613790,
+      "name": "Spooky Ride",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4613790/a2b78c4dd7ab741610962c196cf6d84b53ef9031/header.jpg?t=1793294179",
+      "release": "Oct 29, 2026",
+      "comingSoon": false,
+      "price": "$7.19",
+      "genres": [
+        "Adventure",
         "Casual",
         "Indie"
       ],
@@ -38,46 +54,129 @@
       ]
     },
     {
-      "id": 1287150,
-      "name": "Pulseball",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1287150/header.jpg?t=1793204378",
-      "release": "Oct 28, 2026",
+      "id": 4360290,
+      "name": "Terraclysm Survivors",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4360290/f0ca8647f7802868f046ac5decfd2bcc8044f109/header.jpg?t=1793294044",
+      "release": "Oct 29, 2026",
       "comingSoon": false,
-      "price": "$7.09",
+      "price": "$8.49",
       "genres": [
         "Action",
-        "Casual",
+        "Indie",
+        "RPG"
+      ],
+      "modes": [
+        "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5228830,
+      "name": "FreeSurf",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5228830/b9b8f7b23d58500c9b293d5d00c6d3af0d4c68a3/header.jpg?t=1793293501",
+      "release": "Oct 29, 2026",
+      "comingSoon": false,
+      "price": "$17.91",
+      "genres": [
+        "Action",
+        "Indie",
+        "Simulation"
+      ],
+      "modes": [
+        "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 1879270,
+      "name": "Into the Crypt",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1879270/86d369e93bff9c90d9869baacd3662e68c67e9e7/header.jpg?t=1793293248",
+      "release": "Oct 29, 2026",
+      "comingSoon": false,
+      "price": "$16.99",
+      "genres": [
+        "Action",
+        "Indie",
+        "Strategy"
+      ],
+      "modes": [
+        "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 4689770,
+      "name": "Shadow Gangs Zero",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4689770/ded2cf63f35d4a802bbfcc7f9c7da2a09decb72d/header.jpg?t=1793293231",
+      "release": "Oct 29, 2026",
+      "comingSoon": false,
+      "price": "$22.49",
+      "genres": [
+        "Action",
         "Indie"
       ],
       "modes": [
-        "PvP",
+        "Co-op",
         "Multi-player"
       ]
     },
     {
-      "id": 4648890,
-      "name": "Intergalactic Puzzle Touchdown",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4648890/b6213131eb3efeed75e5d764d06b54c73ee2be8c/header.jpg?t=1793203763",
-      "release": "Oct 28, 2026",
+      "id": 4088370,
+      "name": "Two Dollar Suits",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4088370/b5ee4f7d008545e58044ea116025020e05f861a4/header.jpg?t=1793293221",
+      "release": "Oct 29, 2026",
       "comingSoon": false,
-      "price": "$4.49",
+      "price": "$10.19",
       "genres": [
-        "Casual",
+        "Action",
         "Indie",
-        "Sports"
+        "Strategy"
       ],
       "modes": [
-        "PvP",
+        "Co-op",
         "Multi-player"
       ]
     },
     {
-      "id": 4057670,
-      "name": "The Midnighters",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4057670/2e0c7df5888b3c1ecae84109fd8e434e5758e272/header.jpg?t=1793203180",
-      "release": "Oct 28, 2026",
+      "id": 5279120,
+      "name": "Ourself",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5279120/d97e5d9ee7f8041dfc90550f488fc08d998fc74e/header.jpg?t=1793293221",
+      "release": "Oct 29, 2026",
       "comingSoon": false,
-      "price": "$3.74",
+      "price": "$4.25",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Casual"
+      ],
+      "modes": [
+        "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 1270660,
+      "name": "Dead Party",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1270660/37ca38fd9df8f9a1befb35f2345e6c1e194acb05/header_alt_assets_0.jpg?t=1793292981",
+      "release": "Oct 29, 2026",
+      "comingSoon": false,
+      "price": "$16.99",
+      "genres": [
+        "Action",
+        "Casual"
+      ],
+      "modes": [
+        "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 3844490,
+      "name": "Wald-Guard",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3844490/5868b2d724284259d8898dada88e5057642994ea/header.jpg?t=1793291788",
+      "release": "Oct 29, 2026",
+      "comingSoon": false,
+      "price": "$2.39",
       "genres": [
         "Action",
         "Adventure",
@@ -85,22 +184,6 @@
       ],
       "modes": [
         "Co-op",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5369000,
-      "name": "Crownmason",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5369000/7c99ed7fd1e8bac1980777f52cbad26d3da42499/header.jpg?t=1793202921",
-      "release": "Oct 28, 2026",
-      "comingSoon": false,
-      "price": "$10.49",
-      "genres": [
-        "Indie",
-        "Strategy"
-      ],
-      "modes": [
-        "PvP",
         "Multi-player"
       ]
     }
