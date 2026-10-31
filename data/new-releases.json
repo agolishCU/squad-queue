@@ -1,103 +1,55 @@
 {
-  "scannedAt": "2026-10-30T18:00:15.542Z",
+  "scannedAt": "2026-10-31T17:14:59.602Z",
   "source": "Steam featured New Releases list",
   "games": [
     {
-      "id": 4137060,
-      "name": "Prison Fury",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4137060/338d22a94a4a74d101d436025cd884396ecc642c/header.jpg?t=1793379664",
-      "release": "Oct 30, 2026",
+      "id": 3235390,
+      "name": "Ballerspiel",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235390/14529dd75694d740be29b6c8b3485e680e8a0d90/header.jpg?t=1793448047",
+      "release": "Oct 31, 2026",
       "comingSoon": false,
-      "price": "$8.99",
+      "price": "$4.24",
+      "genres": [
+        "Action",
+        "Indie"
+      ],
+      "modes": [
+        "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 4974600,
+      "name": "Hidden in Plain Cake",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4974600/72f637124805e6626804319e8ddce3458a8e2c38/header.jpg?t=1793445181",
+      "release": "Oct 31, 2026",
+      "comingSoon": false,
+      "price": "Free",
       "genres": [
         "Casual",
         "Indie",
-        "Strategy"
+        "Free To Play"
       ],
       "modes": [
         "Co-op",
+        "PvP",
         "Multi-player"
       ]
     },
     {
-      "id": 5334150,
-      "name": "Fix it, Please!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5334150/4ebf16493f3e5428c5dd61960129e081bd2b28c2/header.jpg?t=1793379631",
-      "release": "Oct 30, 2026",
+      "id": 5288230,
+      "name": "MiniRacingOnline",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5288230/0ba6b0d399dd576b9372c1f631cf4243bf8451ef/header.jpg?t=1793430933",
+      "release": "Oct 31, 2026",
       "comingSoon": false,
-      "price": "$5.59",
+      "price": "Free",
       "genres": [
-        "Adventure",
         "Indie",
-        "Simulation"
+        "Racing",
+        "Sports"
       ],
       "modes": [
-        "Co-op",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 1249890,
-      "name": "Survival Denied",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1249890/header.jpg?t=1793380189",
-      "release": "Oct 30, 2026",
-      "comingSoon": false,
-      "price": "$10.19",
-      "genres": [
-        "Action",
-        "Casual",
-        "Indie"
-      ],
-      "modes": [
-        "Co-op",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5440630,
-      "name": "The Liminal Descent",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5440630/7a6a8b42e8ef8f46d32cc0d869d0b63ad89a7aef/header.jpg?t=1793376312",
-      "release": "Oct 30, 2026",
-      "comingSoon": false,
-      "price": "$5.49",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Indie"
-      ],
-      "modes": [
-        "Co-op",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 4698020,
-      "name": "Relay Protocol",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4698020/ba65355928f94d14d6b2d7823b77f6d260059ac2/header.jpg?t=1793376110",
-      "release": "Oct 30, 2026",
-      "comingSoon": false,
-      "price": "$6.99",
-      "genres": [
-        "Indie"
-      ],
-      "modes": [
-        "Co-op",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5041530,
-      "name": "Put Your Toys Away Together!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5041530/b401b7345482a082e2fc27e9b1ca6bc6cc67d224/header.jpg?t=1793377304",
-      "release": "Oct 30, 2026",
-      "comingSoon": false,
-      "price": "$5.94",
-      "genres": [
-        "Casual",
-        "Simulation"
-      ],
-      "modes": [
-        "Co-op",
+        "PvP",
         "Multi-player"
       ]
     }
