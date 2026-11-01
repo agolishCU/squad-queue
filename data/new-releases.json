@@ -1,17 +1,18 @@
 {
-  "scannedAt": "2026-10-31T17:14:59.602Z",
+  "scannedAt": "2026-11-01T17:56:01.035Z",
   "source": "Steam featured New Releases list",
   "games": [
     {
-      "id": 3235390,
-      "name": "Ballerspiel",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235390/14529dd75694d740be29b6c8b3485e680e8a0d90/header.jpg?t=1793448047",
-      "release": "Oct 31, 2026",
+      "id": 4567920,
+      "name": "Bull Run",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4567920/97fa58294d98ed20ab846da5c8b248ba6a49cf7d/header.jpg?t=1793552261",
+      "release": "Nov 1, 2026",
       "comingSoon": false,
-      "price": "$4.24",
+      "price": "$9.99",
       "genres": [
-        "Action",
-        "Indie"
+        "Casual",
+        "Indie",
+        "Simulation"
       ],
       "modes": [
         "PvP",
@@ -19,16 +20,32 @@
       ]
     },
     {
-      "id": 4974600,
-      "name": "Hidden in Plain Cake",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4974600/72f637124805e6626804319e8ddce3458a8e2c38/header.jpg?t=1793445181",
-      "release": "Oct 31, 2026",
+      "id": 5228470,
+      "name": "Hotpot Party",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5228470/244eb861ea482693ea44e8b0814060d7bb4a2bb9/header.jpg?t=1793542957",
+      "release": "Nov 1, 2026",
       "comingSoon": false,
-      "price": "Free",
+      "price": "$7.99",
       "genres": [
         "Casual",
         "Indie",
-        "Free To Play"
+        "Simulation"
+      ],
+      "modes": [
+        "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5199400,
+      "name": "Guess What's Behind!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5199400/22e76d46a82b6949c793d24ea2e643cf97a041df/header.jpg?t=1793534769",
+      "release": "Nov 1, 2026",
+      "comingSoon": false,
+      "price": "$4.99",
+      "genres": [
+        "Casual",
+        "Indie"
       ],
       "modes": [
         "Co-op",
@@ -37,19 +54,19 @@
       ]
     },
     {
-      "id": 5288230,
-      "name": "MiniRacingOnline",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5288230/0ba6b0d399dd576b9372c1f631cf4243bf8451ef/header.jpg?t=1793430933",
-      "release": "Oct 31, 2026",
+      "id": 5050520,
+      "name": "Moving Company Simulator",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5050520/6b15909dd4b2870a7402ea47b73cef8c64200a5b/header.jpg?t=1793528437",
+      "release": "Nov 1, 2026",
       "comingSoon": false,
-      "price": "Free",
+      "price": "$4.19",
       "genres": [
+        "Casual",
         "Indie",
-        "Racing",
-        "Sports"
+        "Simulation"
       ],
       "modes": [
-        "PvP",
+        "Co-op",
         "Multi-player"
       ]
     }
