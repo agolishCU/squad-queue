@@ -1,49 +1,16 @@
 {
-  "scannedAt": "2026-11-01T17:56:01.035Z",
+  "scannedAt": "2026-11-02T21:42:25.247Z",
   "source": "Steam featured New Releases list",
   "games": [
     {
-      "id": 4567920,
-      "name": "Bull Run",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4567920/97fa58294d98ed20ab846da5c8b248ba6a49cf7d/header.jpg?t=1793552261",
-      "release": "Nov 1, 2026",
+      "id": 5221880,
+      "name": "Keepers of the Farkle",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5221880/8947fb2bd5a4ef0113ca8976fbdaf8192b6855fc/header.jpg?t=1793649672",
+      "release": "Nov 2, 2026",
       "comingSoon": false,
-      "price": "$9.99",
+      "price": "$4.49",
       "genres": [
-        "Casual",
-        "Indie",
-        "Simulation"
-      ],
-      "modes": [
-        "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5228470,
-      "name": "Hotpot Party",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5228470/244eb861ea482693ea44e8b0814060d7bb4a2bb9/header.jpg?t=1793542957",
-      "release": "Nov 1, 2026",
-      "comingSoon": false,
-      "price": "$7.99",
-      "genres": [
-        "Casual",
-        "Indie",
-        "Simulation"
-      ],
-      "modes": [
-        "Co-op",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5199400,
-      "name": "Guess What's Behind!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5199400/22e76d46a82b6949c793d24ea2e643cf97a041df/header.jpg?t=1793534769",
-      "release": "Nov 1, 2026",
-      "comingSoon": false,
-      "price": "$4.99",
-      "genres": [
+        "Action",
         "Casual",
         "Indie"
       ],
@@ -54,19 +21,69 @@
       ]
     },
     {
-      "id": 5050520,
-      "name": "Moving Company Simulator",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5050520/6b15909dd4b2870a7402ea47b73cef8c64200a5b/header.jpg?t=1793528437",
-      "release": "Nov 1, 2026",
+      "id": 4314390,
+      "name": "I Trust You Buddy",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4314390/2661d6bb6ec7af6d8a373da3f814f43d8a0129b7/header.jpg?t=1793649122",
+      "release": "Nov 2, 2026",
       "comingSoon": false,
-      "price": "$4.19",
+      "price": "$1.27",
       "genres": [
-        "Casual",
-        "Indie",
-        "Simulation"
+        "Action",
+        "Adventure",
+        "Casual"
       ],
       "modes": [
         "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 3832030,
+      "name": "BOOST VECTOR EX",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3832030/230939528d9de1b9fe7c3e5c8ac34357aeb179c3/header.jpg?t=1793648561",
+      "release": "Nov 2, 2026",
+      "comingSoon": false,
+      "price": "$17.99",
+      "genres": [
+        "Action",
+        "Indie",
+        "Racing"
+      ],
+      "modes": [
+        "Co-op",
+        "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5164850,
+      "name": "Beltrunner",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5164850/d78f33723ef69bbb1ad38e8f6d4b8d4f96ea0561/header.jpg?t=1793646951",
+      "release": "Nov 2, 2026",
+      "comingSoon": false,
+      "price": "$3.19",
+      "genres": [
+        "Action"
+      ],
+      "modes": [
+        "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5005570,
+      "name": "Dynamic Breach",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5005570/15d189f172fd6493564e435d653adc2a554e0387/header.jpg?t=1793642683",
+      "release": "Nov 2, 2026",
+      "comingSoon": false,
+      "price": "$12.74",
+      "genres": [
+        "Action",
+        "Indie"
+      ],
+      "modes": [
+        "Co-op",
+        "PvP",
         "Multi-player"
       ]
     }
