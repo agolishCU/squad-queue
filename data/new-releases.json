@@ -1,14 +1,14 @@
 {
-  "scannedAt": "2026-11-02T21:42:25.247Z",
+  "scannedAt": "2026-11-03T19:29:35.461Z",
   "source": "Steam featured New Releases list",
   "games": [
     {
-      "id": 5221880,
-      "name": "Keepers of the Farkle",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5221880/8947fb2bd5a4ef0113ca8976fbdaf8192b6855fc/header.jpg?t=1793649672",
-      "release": "Nov 2, 2026",
+      "id": 3053950,
+      "name": "Dungeon Rampage Remastered",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3053950/eac09ebd91ad5af0c09404e715ea7672c2404120/header_alt_assets_2.jpg?t=1793730506",
+      "release": "Nov 3, 2026",
       "comingSoon": false,
-      "price": "$4.49",
+      "price": "$9.74",
       "genres": [
         "Action",
         "Casual",
@@ -16,36 +16,18 @@
       ],
       "modes": [
         "Co-op",
-        "PvP",
         "Multi-player"
       ]
     },
     {
-      "id": 4314390,
-      "name": "I Trust You Buddy",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4314390/2661d6bb6ec7af6d8a373da3f814f43d8a0129b7/header.jpg?t=1793649122",
-      "release": "Nov 2, 2026",
+      "id": 877900,
+      "name": "Clanker Calamity",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/877900/6771cb26363f34ccb1b0fd0f9f8c97682ffa2315/header.jpg?t=1793728928",
+      "release": "Nov 3, 2026",
       "comingSoon": false,
-      "price": "$1.27",
+      "price": "$4.24",
       "genres": [
-        "Action",
-        "Adventure",
-        "Casual"
-      ],
-      "modes": [
-        "Co-op",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 3832030,
-      "name": "BOOST VECTOR EX",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3832030/230939528d9de1b9fe7c3e5c8ac34357aeb179c3/header.jpg?t=1793648561",
-      "release": "Nov 2, 2026",
-      "comingSoon": false,
-      "price": "$17.99",
-      "genres": [
-        "Action",
+        "Casual",
         "Indie",
         "Racing"
       ],
@@ -56,14 +38,32 @@
       ]
     },
     {
-      "id": 5164850,
-      "name": "Beltrunner",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5164850/d78f33723ef69bbb1ad38e8f6d4b8d4f96ea0561/header.jpg?t=1793646951",
-      "release": "Nov 2, 2026",
+      "id": 2794590,
+      "name": "Scam Line",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2794590/86d84c71aadc3000e8719d3df387a0f11007ebcc/header_alt_assets_0.jpg?t=1793728821",
+      "release": "Nov 3, 2026",
       "comingSoon": false,
-      "price": "$3.19",
+      "price": "$5.59",
       "genres": [
-        "Action"
+        "Indie"
+      ],
+      "modes": [
+        "Co-op",
+        "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5002430,
+      "name": "CATENA - Chapter I",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5002430/49da2632b9149d8b9b834b5194eb2404a3c164a1/header.jpg?t=1793728784",
+      "release": "Nov 3, 2026",
+      "comingSoon": false,
+      "price": "Free",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Free To Play"
       ],
       "modes": [
         "Co-op",
@@ -71,14 +71,32 @@
       ]
     },
     {
-      "id": 5005570,
-      "name": "Dynamic Breach",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5005570/15d189f172fd6493564e435d653adc2a554e0387/header.jpg?t=1793642683",
-      "release": "Nov 2, 2026",
+      "id": 5205300,
+      "name": "The Coast is Clear: Tidy up the Beach!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5205300/30709f614f212b2a891a7038f80c2dbd790adbea/header.jpg?t=1793728289",
+      "release": "Nov 3, 2026",
       "comingSoon": false,
-      "price": "$12.74",
+      "price": "$5.75",
+      "genres": [
+        "Casual",
+        "Indie",
+        "Simulation"
+      ],
+      "modes": [
+        "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 4548830,
+      "name": "SCRAPBOX ",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4548830/f0b56f7e5c1368852c5e2f457738bb952757c4b9/header.jpg?t=1793725216",
+      "release": "Nov 3, 2026",
+      "comingSoon": false,
+      "price": "$1.70",
       "genres": [
         "Action",
+        "Casual",
         "Indie"
       ],
       "modes": [
