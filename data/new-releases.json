@@ -1,18 +1,17 @@
 {
-  "scannedAt": "2026-11-03T19:29:35.461Z",
+  "scannedAt": "2026-11-04T19:45:34.924Z",
   "source": "Steam featured New Releases list",
   "games": [
     {
-      "id": 3053950,
-      "name": "Dungeon Rampage Remastered",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3053950/eac09ebd91ad5af0c09404e715ea7672c2404120/header_alt_assets_2.jpg?t=1793730506",
-      "release": "Nov 3, 2026",
+      "id": 5024920,
+      "name": "Desktop Slime Graveyard: Tap Reaper",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5024920/3604e31315e02ba3eab6cc1fdcad94559454da28/header.jpg?t=1793815206",
+      "release": "Nov 4, 2026",
       "comingSoon": false,
-      "price": "$9.74",
+      "price": "$1.59",
       "genres": [
-        "Action",
         "Casual",
-        "Indie"
+        "RPG"
       ],
       "modes": [
         "Co-op",
@@ -20,32 +19,32 @@
       ]
     },
     {
-      "id": 877900,
-      "name": "Clanker Calamity",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/877900/6771cb26363f34ccb1b0fd0f9f8c97682ffa2315/header.jpg?t=1793728928",
-      "release": "Nov 3, 2026",
-      "comingSoon": false,
-      "price": "$4.24",
-      "genres": [
-        "Casual",
-        "Indie",
-        "Racing"
-      ],
-      "modes": [
-        "Co-op",
-        "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 2794590,
-      "name": "Scam Line",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2794590/86d84c71aadc3000e8719d3df387a0f11007ebcc/header_alt_assets_0.jpg?t=1793728821",
-      "release": "Nov 3, 2026",
+      "id": 4636920,
+      "name": "Hyperline",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4636920/52316179201a0398327dacb04d2cd8b1bc1cc2cc/header.jpg?t=1793817375",
+      "release": "Nov 4, 2026",
       "comingSoon": false,
       "price": "$5.59",
       "genres": [
+        "Action",
+        "Casual",
         "Indie"
+      ],
+      "modes": [
+        "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 4920680,
+      "name": "Warlapse",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4920680/9b2ced1d593e00a3157cb577fe3dd17096223af3/header.jpg?t=1793814321",
+      "release": "Nov 4, 2026",
+      "comingSoon": false,
+      "price": "$8.49",
+      "genres": [
+        "Indie",
+        "Strategy"
       ],
       "modes": [
         "Co-op",
@@ -54,31 +53,13 @@
       ]
     },
     {
-      "id": 5002430,
-      "name": "CATENA - Chapter I",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5002430/49da2632b9149d8b9b834b5194eb2404a3c164a1/header.jpg?t=1793728784",
-      "release": "Nov 3, 2026",
+      "id": 508680,
+      "name": "Domino VR",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/508680/bf4c569d346bf933e143bdec69967026be3b1a6e/header.jpg?t=1793813971",
+      "release": "Nov 4, 2026",
       "comingSoon": false,
-      "price": "Free",
+      "price": "$7.99",
       "genres": [
-        "Action",
-        "Adventure",
-        "Free To Play"
-      ],
-      "modes": [
-        "Co-op",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5205300,
-      "name": "The Coast is Clear: Tidy up the Beach!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5205300/30709f614f212b2a891a7038f80c2dbd790adbea/header.jpg?t=1793728289",
-      "release": "Nov 3, 2026",
-      "comingSoon": false,
-      "price": "$5.75",
-      "genres": [
-        "Casual",
         "Indie",
         "Simulation"
       ],
@@ -88,20 +69,31 @@
       ]
     },
     {
-      "id": 4548830,
-      "name": "SCRAPBOX ",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4548830/f0b56f7e5c1368852c5e2f457738bb952757c4b9/header.jpg?t=1793725216",
-      "release": "Nov 3, 2026",
+      "id": 4088720,
+      "name": "Pogo Together",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4088720/d859b6a38b219af4810902e5f730176ecd7b6fd5/header.jpg?t=1793812719",
+      "release": "Nov 4, 2026",
       "comingSoon": false,
-      "price": "$1.70",
+      "price": "$2.99",
       "genres": [
-        "Action",
         "Casual",
         "Indie"
       ],
       "modes": [
         "Co-op",
-        "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 1677110,
+      "name": "Lightyear Frontier",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677110/f4aec944f634f189990fe69e6d353b5609787955/header_alt_assets_7.jpg?t=1793811955",
+      "release": "Nov 4, 2026",
+      "comingSoon": false,
+      "price": "$23.99",
+      "genres": [],
+      "modes": [
+        "Co-op",
         "Multi-player"
       ]
     }
