@@ -1,82 +1,64 @@
 {
-  "scannedAt": "2026-11-05T19:57:20.225Z",
+  "scannedAt": "2026-11-06T19:24:50.593Z",
   "source": "Steam featured New Releases list",
   "games": [
     {
-      "id": 4420660,
-      "name": "ZONE L.O.S.T.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4420660/85cfecfcfa358904c5febdb25fc762ae264b3ba1/header.jpg?t=1793904787",
-      "release": "Nov 5, 2026",
+      "id": 5380380,
+      "name": "Sumo Dynasty",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5380380/27d89ce6d9772e5b6c4d9954da815dce9e3c8e87/header.jpg?t=1793988032",
+      "release": "Nov 6, 2026",
       "comingSoon": false,
-      "price": "$8.99",
+      "price": "$15.99",
       "genres": [
-        "Action",
-        "Adventure",
-        "Indie"
+        "Simulation",
+        "Sports",
+        "Strategy"
+      ],
+      "modes": [
+        "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5371290,
+      "name": "Echoes of Calir",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5371290/af9e8c521c33c93b4e22d54165e70374860a950f/header.jpg?t=1793988029",
+      "release": "Nov 6, 2026",
+      "comingSoon": false,
+      "price": "Free",
+      "genres": [
+        "Indie",
+        "Strategy",
+        "Free To Play"
+      ],
+      "modes": [
+        "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5131730,
+      "name": "Trap Testers",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5131730/f4764da8b7aad2852eceedaf5a7b72bf81c32fc9/header.jpg?t=1793988019",
+      "release": "Nov 6, 2026",
+      "comingSoon": false,
+      "price": "$4.95",
+      "genres": [
+        "Action"
       ],
       "modes": [
         "Co-op",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5235010,
-      "name": "TURF FIGHT",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5235010/e54014318d318c976515930cc042091b65887984/header.jpg?t=1793903659",
-      "release": "Nov 5, 2026",
-      "comingSoon": false,
-      "price": "$13.49",
-      "genres": [
-        "Action",
-        "Indie"
-      ],
-      "modes": [
-        "Co-op",
         "PvP",
         "Multi-player"
       ]
     },
     {
-      "id": 4455590,
-      "name": "RUNTIME",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4455590/c79dc6f56af0a6b0afaa49859da835c28b5c8c42/header.jpg?t=1793903582",
-      "release": "Nov 5, 2026",
+      "id": 4945980,
+      "name": "Grimoire of Blanks",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4945980/cf0d0b3cbbba03f710b6b5e335cc9cc5890da9aa/header.jpg?t=1793987927",
+      "release": "Nov 6, 2026",
       "comingSoon": false,
-      "price": "$6.79",
-      "genres": [
-        "Action",
-        "Indie",
-        "Racing"
-      ],
-      "modes": [
-        "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5346640,
-      "name": "Futbolero: Football Career Simulator",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5346640/77f59dc8e5a21c1f28db4395d579abee9a0b36a2/header.jpg?t=1793902560",
-      "release": "Nov 5, 2026",
-      "comingSoon": false,
-      "price": "$7.49",
-      "genres": [
-        "Casual",
-        "Indie",
-        "Simulation"
-      ],
-      "modes": [
-        "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5154200,
-      "name": "Tabletop TD",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5154200/3a2ac6bb9544306f561f97b79efc0699cb4a0b6d/header.jpg?t=1793901846",
-      "release": "Nov 5, 2026",
-      "comingSoon": false,
-      "price": "$3.99",
+      "price": "$11.04",
       "genres": [
         "Indie",
         "Strategy"
@@ -87,16 +69,16 @@
       ]
     },
     {
-      "id": 5088660,
-      "name": "Dungeon Miner",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5088660/52f04d02e622e4926269514d7f8cc3f9f31c1698/header.jpg?t=1793904541",
-      "release": "Nov 5, 2026",
+      "id": 5438400,
+      "name": "Alien Prospectors",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5438400/8124ca3249d9e9f96672f515bbc95b5e0c236477/header.jpg?t=1793985040",
+      "release": "Nov 6, 2026",
       "comingSoon": false,
-      "price": "$3.99",
+      "price": "$8.99",
       "genres": [
-        "Action",
-        "Adventure",
-        "Indie"
+        "Casual",
+        "Indie",
+        "Simulation"
       ],
       "modes": [
         "Co-op",
@@ -104,29 +86,12 @@
       ]
     },
     {
-      "id": 4163660,
-      "name": "Gun a Rat",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4163660/aa39a7490dc4102dd54e41efa27ade3a99dca444/header.jpg?t=1793901585",
-      "release": "Nov 5, 2026",
+      "id": 5132310,
+      "name": "High Voltage",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5132310/8c11bd33c39d2a37364cfdd7ebf8e7dd029a8a9b/header.jpg?t=1793984393",
+      "release": "Nov 6, 2026",
       "comingSoon": false,
-      "price": "$5.09",
-      "genres": [
-        "Action",
-        "Casual",
-        "Indie"
-      ],
-      "modes": [
-        "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5075360,
-      "name": "Tidy Up the Library of Alexandria",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5075360/75d5442de0411a83310d63828ff66462f971a65f/header.jpg?t=1793901373",
-      "release": "Nov 5, 2026",
-      "comingSoon": false,
-      "price": "$5.09",
+      "price": "$11.99",
       "genres": [
         "Casual",
         "Indie",
