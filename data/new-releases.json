@@ -1,33 +1,49 @@
 {
-  "scannedAt": "2026-11-06T19:24:50.593Z",
+  "scannedAt": "2026-11-07T17:44:39.134Z",
   "source": "Steam featured New Releases list",
   "games": [
     {
-      "id": 5380380,
-      "name": "Sumo Dynasty",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5380380/27d89ce6d9772e5b6c4d9954da815dce9e3c8e87/header.jpg?t=1793988032",
-      "release": "Nov 6, 2026",
+      "id": 5273050,
+      "name": "Your Friend's Mom 2",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5273050/5d6496523574981dd0eb76051c06ba8ee466c4d1/header.jpg?t=1794068305",
+      "release": "Nov 7, 2026",
       "comingSoon": false,
-      "price": "$15.99",
+      "price": "$2.09",
       "genres": [
-        "Simulation",
-        "Sports",
-        "Strategy"
+        "Casual",
+        "Indie",
+        "Simulation"
       ],
       "modes": [
-        "PvP",
+        "Co-op",
         "Multi-player"
       ]
     },
     {
-      "id": 5371290,
-      "name": "Echoes of Calir",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5371290/af9e8c521c33c93b4e22d54165e70374860a950f/header.jpg?t=1793988029",
-      "release": "Nov 6, 2026",
+      "id": 5259730,
+      "name": "Dub Party",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5259730/135be578d9f2405f8b982ea62284f20ce16ccb83/header.jpg?t=1794069845",
+      "release": "Nov 7, 2026",
+      "comingSoon": false,
+      "price": "$3.91",
+      "genres": [
+        "Casual",
+        "Indie"
+      ],
+      "modes": [
+        "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5435190,
+      "name": "GomokuZero",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5435190/1d76ec4b9005fddc9fe8d74902031513230e641a/header.jpg?t=1794061610",
+      "release": "Nov 7, 2026",
       "comingSoon": false,
       "price": "Free",
       "genres": [
-        "Indie",
+        "Sports",
         "Strategy",
         "Free To Play"
       ],
@@ -37,14 +53,66 @@
       ]
     },
     {
-      "id": 5131730,
-      "name": "Trap Testers",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5131730/f4764da8b7aad2852eceedaf5a7b72bf81c32fc9/header.jpg?t=1793988019",
-      "release": "Nov 6, 2026",
+      "id": 5325220,
+      "name": "DeskHugs: Desktop Friends",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5325220/6d3a4d370c7519894124f2d81e46d74745a4a22f/header.jpg?t=1794061963",
+      "release": "Nov 7, 2026",
       "comingSoon": false,
-      "price": "$4.95",
+      "price": "Free",
       "genres": [
-        "Action"
+        "Indie",
+        "Simulation",
+        "Free To Play"
+      ],
+      "modes": [
+        "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 1990250,
+      "name": "SG Racing",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1990250/2a573fd5e03814f8509d27e8e0fb64f985526889/header.jpg?t=1794059684",
+      "release": "Nov 7, 2026",
+      "comingSoon": false,
+      "price": "$6.39",
+      "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+      ],
+      "modes": [
+        "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5399970,
+      "name": "Plastic Soldiers: Air Support",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5399970/cb0eea18c31c099409102d8f2164530f30a3b3e1/header.jpg?t=1794057922",
+      "release": "Nov 7, 2026",
+      "comingSoon": false,
+      "price": "$5.00",
+      "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+      ],
+      "modes": [
+        "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5150150,
+      "name": "Arcade Lacrosse",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5150150/4c45a76b9a65ffa8eb1356a38c56a02e28d96906/header.jpg?t=1794054588",
+      "release": "Nov 7, 2026",
+      "comingSoon": false,
+      "price": "$2.99",
+      "genres": [
+        "Indie",
+        "Sports"
       ],
       "modes": [
         "Co-op",
@@ -53,28 +121,46 @@
       ]
     },
     {
-      "id": 4945980,
-      "name": "Grimoire of Blanks",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4945980/cf0d0b3cbbba03f710b6b5e335cc9cc5890da9aa/header.jpg?t=1793987927",
-      "release": "Nov 6, 2026",
+      "id": 5231690,
+      "name": "Losers Club",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5231690/565406e731dd07b982f943b372b4503f451411eb/header.jpg?t=1794054070",
+      "release": "Nov 7, 2026",
       "comingSoon": false,
-      "price": "$11.04",
+      "price": "$4.99",
       "genres": [
-        "Indie",
-        "Strategy"
+        "Casual",
+        "Indie"
       ],
       "modes": [
-        "Co-op",
+        "PvP",
         "Multi-player"
       ]
     },
     {
-      "id": 5438400,
-      "name": "Alien Prospectors",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5438400/8124ca3249d9e9f96672f515bbc95b5e0c236477/header.jpg?t=1793985040",
-      "release": "Nov 6, 2026",
+      "id": 4907430,
+      "name": "GrindFall",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4907430/132272200b0d8c6b1d2d65393e632194eb77db40/header.jpg?t=1794052134",
+      "release": "Nov 7, 2026",
       "comingSoon": false,
-      "price": "$8.99",
+      "price": "$5.09",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+      ],
+      "modes": [
+        "Co-op",
+        "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5475680,
+      "name": "Fish Island Restaurant Simulator Together",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5475680/5b9d5d17af4f42ca9f442bafa63ed7445ac16fd9/header.jpg?t=1794047178",
+      "release": "Nov 7, 2026",
+      "comingSoon": false,
+      "price": "$3.99",
       "genres": [
         "Casual",
         "Indie",
@@ -86,19 +172,51 @@
       ]
     },
     {
-      "id": 5132310,
-      "name": "High Voltage",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5132310/8c11bd33c39d2a37364cfdd7ebf8e7dd029a8a9b/header.jpg?t=1793984393",
-      "release": "Nov 6, 2026",
+      "id": 2763970,
+      "name": "Paranormal Events",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2763970/4abae08c197c848454cf2f5d27f69516f631d550/header.jpg?t=1794042698",
+      "release": "Nov 7, 2026",
       "comingSoon": false,
-      "price": "$11.99",
+      "price": "$12.99",
       "genres": [
-        "Casual",
-        "Indie",
-        "Simulation"
+        "Action",
+        "Adventure",
+        "Indie"
       ],
       "modes": [
         "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5335900,
+      "name": "Evercoil",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5335900/ef7128517b6fed0b7a784c263626842feecec9b3/header.jpg?t=1794036200",
+      "release": "Nov 6, 2026",
+      "comingSoon": false,
+      "price": "$1.79",
+      "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+      ],
+      "modes": [
+        "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 3449210,
+      "name": "Spot the Difference Stadium",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3449210/3ecb26f2208d5689304d6ccc7a2bcdcda8c4dc2d/header.jpg?t=1794035254",
+      "release": "Nov 6, 2026",
+      "comingSoon": false,
+      "price": "$2.69",
+      "genres": [
+        "Casual"
+      ],
+      "modes": [
+        "PvP",
         "Multi-player"
       ]
     }
