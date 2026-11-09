@@ -1,50 +1,31 @@
 {
-  "scannedAt": "2026-11-08T17:55:51.227Z",
+  "scannedAt": "2026-11-09T22:22:31.027Z",
   "source": "Steam featured New Releases list",
   "games": [
     {
-      "id": 5323250,
-      "name": "Starfall Defense",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5323250/0126a1b3a9fcb6b5b38f69d8a2c99aca0d827760/header.jpg?t=1794157331",
-      "release": "Nov 8, 2026",
-      "comingSoon": false,
-      "price": "Free",
-      "genres": [
-        "Casual",
-        "Strategy",
-        "Free To Play"
-      ],
-      "modes": [
-        "Co-op",
-        "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5455560,
-      "name": "Command Base Assault",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5455560/2875c7d923de5155f7287938c209131c735d9206/header.jpg?t=1794137306",
-      "release": "Nov 8, 2026",
-      "comingSoon": false,
-      "price": "Free",
+      "id": 4423270,
+      "name": "Takeover 2",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4423270/854dde999b6f41b2002952edf7aadc747cf40212/header.jpg?t=1793728008",
+      "release": "Nov 10, 2026",
+      "comingSoon": true,
+      "price": "TBA",
       "genres": [
         "Action",
-        "Strategy",
-        "Free To Play"
+        "Casual",
+        "Indie"
       ],
       "modes": [
         "Co-op",
-        "PvP",
         "Multi-player"
       ]
     },
     {
-      "id": 4590950,
-      "name": "El Shaddai: Zero Nine Reversi",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4590950/5ee393092d115423260110c54c57249373387257/header.jpg?t=1794133992",
-      "release": "Nov 8, 2026",
+      "id": 5398160,
+      "name": "Gopher It: Office Intern Simulator",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5398160/f07a3ae5ced30e7f861dd6803531e56bf2e44746/header.jpg?t=1794260742",
+      "release": "Nov 9, 2026",
       "comingSoon": false,
-      "price": "$3.59",
+      "price": "$5.99",
       "genres": [
         "Casual",
         "Indie",
@@ -52,21 +33,18 @@
       ],
       "modes": [
         "Co-op",
-        "PvP",
         "Multi-player"
       ]
     },
     {
-      "id": 4755250,
-      "name": "ROMUL",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4755250/254923e7e141eb26b800b44364f8f5d558298421/header.jpg?t=1794119916",
-      "release": "Nov 7, 2026",
+      "id": 4879470,
+      "name": "A Needle In a Haystack",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4879470/8896f9fa15283bfe18e0fd4782ec36d51266f922/header.jpg?t=1794257716",
+      "release": "Nov 9, 2026",
       "comingSoon": false,
-      "price": "$8.99",
+      "price": "$9.99",
       "genres": [
-        "Action",
-        "Adventure",
-        "Casual"
+        "Simulation"
       ],
       "modes": [
         "Co-op",
@@ -74,12 +52,12 @@
       ]
     },
     {
-      "id": 2842720,
-      "name": "ToonSouls Maker",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2842720/b7ff0d258ab7109b02ffa514dbab7bf5e4e723e7/header.jpg?t=1794112403",
-      "release": "Nov 7, 2026",
+      "id": 4634660,
+      "name": "Your Friends Vs Hidebehind",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4634660/039864eac08427d049f9377ef23116b564e28c8c/header.jpg?t=1794256054",
+      "release": "Nov 9, 2026",
       "comingSoon": false,
-      "price": "$5.39",
+      "price": "$4.79",
       "genres": [
         "Action",
         "Adventure",
@@ -91,14 +69,15 @@
       ]
     },
     {
-      "id": 5375770,
-      "name": "Mox Nox",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5375770/1d9569c5a51fde398fbe44cf52dc956fa5723796/header.jpg?t=1794109052",
-      "release": "Nov 7, 2026",
+      "id": 5486980,
+      "name": "Grim Deck",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5486980/da35cfb3f70f405b199954f10078fbd7825de3df/header.jpg?t=1794251545",
+      "release": "Nov 9, 2026",
       "comingSoon": false,
-      "price": "$4.99",
+      "price": "$2.24",
       "genres": [
-        "Action"
+        "Indie",
+        "Strategy"
       ],
       "modes": [
         "Co-op",
@@ -106,16 +85,64 @@
       ]
     },
     {
-      "id": 4982580,
-      "name": "3 Estrellas",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4982580/e08688fb5b76edd6bff72989209d85131173655e/header.jpg?t=1794092834",
-      "release": "Nov 7, 2026",
+      "id": 5474650,
+      "name": "The Horror",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5474650/342ee2e0907ec4e19f7a1b001962215eba6fc27c/header.jpg?t=1794248771",
+      "release": "Nov 9, 2026",
       "comingSoon": false,
-      "price": "$8.49",
+      "price": "$5.99",
       "genres": [
-        "Casual",
         "Indie",
-        "Sports"
+        "Strategy"
+      ],
+      "modes": [
+        "Co-op",
+        "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 4390380,
+      "name": "Crystal Commanders",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4390380/05c33ed157c57dc4779399806f81bdfd1fee41df/header.jpg?t=1794248372",
+      "release": "Nov 9, 2026",
+      "comingSoon": false,
+      "price": "$16.99",
+      "genres": [
+        "Strategy"
+      ],
+      "modes": [
+        "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 3962650,
+      "name": "Pixel Pegz",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3962650/ce7703948707f2090f1b3a6180781c2029a82c86/header.jpg?t=1794247600",
+      "release": "Nov 9, 2026",
+      "comingSoon": false,
+      "price": "$3.99",
+      "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+      ],
+      "modes": [
+        "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 4993270,
+      "name": "Palisade",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4993270/4cefd54c32ed1921101b2c7649550856fdfec19a/header.jpg?t=1794247229",
+      "release": "Nov 9, 2026",
+      "comingSoon": false,
+      "price": "$11.04",
+      "genres": [
+        "Indie",
+        "Strategy"
       ],
       "modes": [
         "Co-op",
