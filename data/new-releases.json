@@ -1,98 +1,15 @@
 {
-  "scannedAt": "2026-11-09T22:22:31.027Z",
+  "scannedAt": "2026-11-10T19:43:57.429Z",
   "source": "Steam featured New Releases list",
   "games": [
     {
-      "id": 4423270,
-      "name": "Takeover 2",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4423270/854dde999b6f41b2002952edf7aadc747cf40212/header.jpg?t=1793728008",
+      "id": 5341270,
+      "name": "Veiled Legions: Fantasy Board Game",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5341270/4bf4c8eac0134019bae4ea75648168505f84c590/header.jpg?t=1794333944",
       "release": "Nov 10, 2026",
-      "comingSoon": true,
-      "price": "TBA",
-      "genres": [
-        "Action",
-        "Casual",
-        "Indie"
-      ],
-      "modes": [
-        "Co-op",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5398160,
-      "name": "Gopher It: Office Intern Simulator",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5398160/f07a3ae5ced30e7f861dd6803531e56bf2e44746/header.jpg?t=1794260742",
-      "release": "Nov 9, 2026",
       "comingSoon": false,
-      "price": "$5.99",
+      "price": "$11.24",
       "genres": [
-        "Casual",
-        "Indie",
-        "Simulation"
-      ],
-      "modes": [
-        "Co-op",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 4879470,
-      "name": "A Needle In a Haystack",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4879470/8896f9fa15283bfe18e0fd4782ec36d51266f922/header.jpg?t=1794257716",
-      "release": "Nov 9, 2026",
-      "comingSoon": false,
-      "price": "$9.99",
-      "genres": [
-        "Simulation"
-      ],
-      "modes": [
-        "Co-op",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 4634660,
-      "name": "Your Friends Vs Hidebehind",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4634660/039864eac08427d049f9377ef23116b564e28c8c/header.jpg?t=1794256054",
-      "release": "Nov 9, 2026",
-      "comingSoon": false,
-      "price": "$4.79",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Indie"
-      ],
-      "modes": [
-        "Co-op",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5486980,
-      "name": "Grim Deck",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5486980/da35cfb3f70f405b199954f10078fbd7825de3df/header.jpg?t=1794251545",
-      "release": "Nov 9, 2026",
-      "comingSoon": false,
-      "price": "$2.24",
-      "genres": [
-        "Indie",
-        "Strategy"
-      ],
-      "modes": [
-        "Co-op",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5474650,
-      "name": "The Horror",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5474650/342ee2e0907ec4e19f7a1b001962215eba6fc27c/header.jpg?t=1794248771",
-      "release": "Nov 9, 2026",
-      "comingSoon": false,
-      "price": "$5.99",
-      "genres": [
-        "Indie",
         "Strategy"
       ],
       "modes": [
@@ -102,51 +19,19 @@
       ]
     },
     {
-      "id": 4390380,
-      "name": "Crystal Commanders",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4390380/05c33ed157c57dc4779399806f81bdfd1fee41df/header.jpg?t=1794248372",
-      "release": "Nov 9, 2026",
+      "id": 4966730,
+      "name": "Powder Park: Ski Resort Builder",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4966730/40b4fd83e21175c10c16cf5b55819a8b0adddb52/header_alt_assets_1.jpg?t=1794333744",
+      "release": "Nov 10, 2026",
       "comingSoon": false,
       "price": "$16.99",
       "genres": [
-        "Strategy"
-      ],
-      "modes": [
-        "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 3962650,
-      "name": "Pixel Pegz",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3962650/ce7703948707f2090f1b3a6180781c2029a82c86/header.jpg?t=1794247600",
-      "release": "Nov 9, 2026",
-      "comingSoon": false,
-      "price": "$3.99",
-      "genres": [
-        "Action",
         "Casual",
-        "Indie"
+        "Simulation",
+        "Sports"
       ],
       "modes": [
         "Co-op",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 4993270,
-      "name": "Palisade",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4993270/4cefd54c32ed1921101b2c7649550856fdfec19a/header.jpg?t=1794247229",
-      "release": "Nov 9, 2026",
-      "comingSoon": false,
-      "price": "$11.04",
-      "genres": [
-        "Indie",
-        "Strategy"
-      ],
-      "modes": [
-        "Co-op",
-        "PvP",
         "Multi-player"
       ]
     }
