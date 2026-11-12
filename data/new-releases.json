@@ -1,16 +1,17 @@
 {
-  "scannedAt": "2026-11-11T19:36:22.101Z",
+  "scannedAt": "2026-11-12T19:54:30.477Z",
   "source": "Steam featured New Releases list",
   "games": [
     {
-      "id": 4408320,
-      "name": "BATTLE BEARS GOLD",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4408320/6e62e386a24dc5a439357f343ecef3da13b05702/header.jpg?t=1794424094",
-      "release": "Nov 11, 2026",
+      "id": 2784470,
+      "name": "9 Kings",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784470/640a138fbc6918daa276a4653360eca9e4488b65/header.jpg?t=1794510071",
+      "release": "Nov 12, 2026",
       "comingSoon": false,
-      "price": "$6.99",
+      "price": "$9.99",
       "genres": [
-        "Action"
+        "RPG",
+        "Strategy"
       ],
       "modes": [
         "PvP",
@@ -18,29 +19,49 @@
       ]
     },
     {
-      "id": 5467590,
-      "name": "IRON FURY",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5467590/902f95a565933c9485ad15a88e810823fe872f02/header.jpg?t=1794422893",
-      "release": "Nov 11, 2026",
+      "id": 2953940,
+      "name": "Ancient Wars: Sparta HD",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2953940/1b32cbfa428a1962df2b85b2a41d8838e860d7c0/header.jpg?t=1794510027",
+      "release": "Nov 12, 2026",
       "comingSoon": false,
-      "price": "$5.99",
+      "price": "$8.99",
       "genres": [
-        "Action"
+        "Action",
+        "Adventure",
+        "Casual"
       ],
       "modes": [
         "Co-op",
+        "PvP",
         "Multi-player"
       ]
     },
     {
-      "id": 2624080,
-      "name": "MycoRelic",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2624080/header.jpg?t=1794422674",
-      "release": "Nov 11, 2026",
+      "id": 4612760,
+      "name": "GET RAMMED",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4612760/e6bbab74927a8bf75723de6217eb18ad624f9852/header.jpg?t=1794507716",
+      "release": "Nov 12, 2026",
       "comingSoon": false,
-      "price": "$16.99",
+      "price": "$3.99",
       "genres": [
         "Action",
+        "Casual",
+        "Indie"
+      ],
+      "modes": [
+        "Co-op",
+        "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 4698160,
+      "name": "Cats Don't Carry Car Parts",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4698160/e87e4eb421896e077a0c627e8e3dad1d323fc473/header.jpg?t=1794510761",
+      "release": "Nov 12, 2026",
+      "comingSoon": false,
+      "price": "$5.59",
+      "genres": [
         "Adventure",
         "Indie"
       ],
@@ -50,14 +71,16 @@
       ]
     },
     {
-      "id": 4840650,
-      "name": "THAT BOMB GAME",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840650/1b4aa3b13a67cc5372322ee7bcd2169c03590003/header.jpg?t=1794420045",
-      "release": "Nov 11, 2026",
+      "id": 4927420,
+      "name": "Idle of the Dead",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4927420/84c47f967514de6d97a1a271c9fe4a0cabda297a/header.jpg?t=1794506570",
+      "release": "Nov 12, 2026",
       "comingSoon": false,
       "price": "$3.99",
       "genres": [
-        "Casual"
+        "Casual",
+        "Indie",
+        "RPG"
       ],
       "modes": [
         "PvP",
@@ -65,34 +88,67 @@
       ]
     },
     {
-      "id": 4634930,
-      "name": "Cow Online World",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4634930/ef934a91f1ce4463d7ea95d37c8e42a68ba882da/header.jpg?t=1794420034",
-      "release": "Nov 11, 2026",
+      "id": 1077310,
+      "name": "Whiskers of Yesterday",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1077310/20aa97eb641db4cf4c6f364c873d0c78f978e482/header.jpg?t=1794506538",
+      "release": "Nov 12, 2026",
       "comingSoon": false,
-      "price": "$4.49",
+      "price": "$4.95",
+      "genres": [
+        "Casual",
+        "Indie"
+      ],
+      "modes": [
+        "Co-op",
+        "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5109550,
+      "name": "ALL EYES ON ME",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5109550/0e49626606ef9b53feb1486f437f2beb83032fb5/header.jpg?t=1794506499",
+      "release": "Nov 12, 2026",
+      "comingSoon": false,
+      "price": "$5.94",
+      "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+      ],
+      "modes": [
+        "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5239280,
+      "name": "Wizard Jars: Tidy Up Together",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5239280/1ad9c16126d38ca6976a0a15ecaa80a333dc6957/header.jpg?t=1794506483",
+      "release": "Nov 12, 2026",
+      "comingSoon": false,
+      "price": "$3.19",
       "genres": [
         "Casual",
         "Indie",
-        "Massively Multiplayer"
+        "Simulation"
       ],
       "modes": [
         "Co-op",
-        "MMO",
         "Multi-player"
       ]
     },
     {
-      "id": 2483570,
-      "name": "Castillon",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483570/7b90090c3f0e578ff63d84a855e117ad5f17a8bb/header.jpg?t=1794421848",
-      "release": "Nov 11, 2026",
+      "id": 5302870,
+      "name": "The Coin Keeper : Tidy up !",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5302870/c545e93ccae962b0b3d103ffcace0817e3c37e44/header.jpg?t=1794506446",
+      "release": "Nov 12, 2026",
       "comingSoon": false,
-      "price": "$9.99",
+      "price": "$5.09",
       "genres": [
-        "Action",
-        "Adventure",
-        "Casual"
+        "Casual",
+        "Indie",
+        "Simulation"
       ],
       "modes": [
         "Co-op",
@@ -100,18 +156,53 @@
       ]
     },
     {
-      "id": 4975050,
-      "name": "Campus Clash",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4975050/80517eef5c7075d961790365e5dc16429c5721a2/header.jpg?t=1794418516",
-      "release": "Nov 11, 2026",
+      "id": 4973650,
+      "name": "SoulForge Legends",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4973650/51f7f00c1c0844e979a8499ce0cc125a8e5bb661/header.jpg?t=1794506435",
+      "release": "Nov 12, 2026",
       "comingSoon": false,
       "price": "Free",
       "genres": [
-        "Casual",
+        "Action",
+        "Adventure",
+        "Indie"
+      ],
+      "modes": [
+        "Co-op",
+        "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 2672700,
+      "name": "Lands of Fury",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2672700/efc6041eaa0a7ea52d0d0f008e4c7da969af1898/header.jpg?t=1794506404",
+      "release": "Nov 12, 2026",
+      "comingSoon": false,
+      "price": "$7.19",
+      "genres": [
+        "Action",
         "Indie",
+        "RPG"
+      ],
+      "modes": [
+        "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5490580,
+      "name": "FRONTLINE ADVANCE: DARK FRONTIER",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5490580/3e22c5f44ff45138a058d7c47537e11702ad080c/header.jpg?t=1794506379",
+      "release": "Nov 12, 2026",
+      "comingSoon": false,
+      "price": "$8.79",
+      "genres": [
+        "Action",
         "Strategy"
       ],
       "modes": [
+        "Co-op",
         "PvP",
         "Multi-player"
       ]
