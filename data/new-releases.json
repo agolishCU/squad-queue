@@ -1,17 +1,34 @@
 {
-  "scannedAt": "2026-11-14T18:01:41.997Z",
+  "scannedAt": "2026-11-15T18:51:54.473Z",
   "source": "Steam featured New Releases list",
   "games": [
     {
-      "id": 5372560,
-      "name": "Zattrick Manager",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5372560/a82499f4e948949d0826519d432f8cc99bdf26f3/header.jpg?t=1794675322",
-      "release": "Coming soon",
-      "comingSoon": true,
+      "id": 4604010,
+      "name": "BEAST",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4604010/f27fa050e6f8c19d43b5dc63a6ce04d777dcee59/header.jpg?t=1794743120",
+      "release": "Nov 15, 2026",
+      "comingSoon": false,
       "price": "Free",
       "genres": [
         "Simulation",
-        "Sports",
+        "Strategy",
+        "Free To Play"
+      ],
+      "modes": [
+        "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5024380,
+      "name": "Sangoku Bump",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5024380/82e7ec50ea598181dd04da24fcae48ecaf33d405/header.jpg?t=1794739406",
+      "release": "Nov 15, 2026",
+      "comingSoon": false,
+      "price": "$8.99",
+      "genres": [
+        "Casual",
+        "Indie",
         "Strategy"
       ],
       "modes": [
@@ -20,16 +37,49 @@
       ]
     },
     {
-      "id": 5447250,
-      "name": "Corporate Dash",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5447250/c2d2f676d97ae228389fba0d219d90a73a61c2db/header.jpg?t=1794672635",
-      "release": "Nov 14, 2026",
+      "id": 2563090,
+      "name": "Hume Index",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2563090/7bfafced9076540733d529f60417ad26c2d91e9f/header.jpg?t=1794737019",
+      "release": "Nov 15, 2026",
       "comingSoon": false,
-      "price": "$4.99",
+      "price": "$7.99",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+      ],
+      "modes": [
+        "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5512840,
+      "name": "Code Red RTS",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5512840/e1ade67d7ec6cfd38275a6fc50bb22bac0f04203/header.jpg?t=1794731594",
+      "release": "Nov 15, 2026",
+      "comingSoon": false,
+      "price": "Free",
       "genres": [
         "Casual",
-        "Indie",
-        "Racing"
+        "Strategy",
+        "Free To Play"
+      ],
+      "modes": [
+        "Co-op",
+        "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 3325950,
+      "name": "Red Crucible Assault",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325950/94210d5824d16fa4e6599d7d1d43d60f1a66ecb1/header.jpg?t=1794730241",
+      "release": "Nov 15, 2026",
+      "comingSoon": false,
+      "price": "$12.74",
+      "genres": [
+        "Action"
       ],
       "modes": [
         "PvP",
@@ -37,12 +87,78 @@
       ]
     },
     {
-      "id": 5443350,
-      "name": "Chisel Me This",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5443350/cfe1291001cfb16db483f96d0669b8005705ba74/header.jpg?t=1794671912",
+      "id": 2402620,
+      "name": "World Guesser",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2402620/a54e16ba49c176d34716630d5ac8c5c9c6a5dd92/header.jpg?t=1794737687",
+      "release": "Nov 15, 2026",
+      "comingSoon": false,
+      "price": "$4.49",
+      "genres": [
+        "Casual"
+      ],
+      "modes": [
+        "Co-op",
+        "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5052180,
+      "name": "Hanafuda",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5052180/eb610f66051f27bc4f3a4d1e90a5b2c1ac1406e9/header.jpg?t=1794730554",
       "release": "Nov 14, 2026",
       "comingSoon": false,
-      "price": "$5.99",
+      "price": "$8.49",
+      "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+      ],
+      "modes": [
+        "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5445850,
+      "name": "Commander's Dilemma",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5445850/c7ec03f09cee3e38e7cbfbc5da37bf04b7076416/header.jpg?t=1794717801",
+      "release": "Nov 14, 2026",
+      "comingSoon": false,
+      "price": "$8.99",
+      "genres": [
+        "RPG",
+        "Simulation",
+        "Strategy"
+      ],
+      "modes": [
+        "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5471970,
+      "name": "Rubber Stamp Legend",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5471970/d996f82b882d34539ba5a0011700a0ceeccf54d4/header.jpg?t=1794717313",
+      "release": "Nov 14, 2026",
+      "comingSoon": false,
+      "price": "$3.19",
+      "genres": [
+        "Casual",
+        "Indie"
+      ],
+      "modes": [
+        "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5354240,
+      "name": "THE BACKLOG",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5354240/e3da7fa6658f8dab1370d44cf3778f023bd91919/header.jpg?t=1794716552",
+      "release": "Nov 14, 2026",
+      "comingSoon": false,
+      "price": "$6.39",
       "genres": [
         "Casual",
         "Indie",
@@ -50,120 +166,21 @@
       ],
       "modes": [
         "Co-op",
-        "PvP",
         "Multi-player"
       ]
     },
     {
-      "id": 5421010,
-      "name": "Physical Yut",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5421010/025756811d40125b1a8129d1a81204e231cdc5a5/header.jpg?t=1794669160",
+      "id": 5455640,
+      "name": "RSP Ultimate Battle",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5455640/26d35cbf48bbe850666377a678a5b5c6cdcd1599/header.jpg?t=1794713955",
       "release": "Nov 14, 2026",
       "comingSoon": false,
-      "price": "$2.39",
-      "genres": [
-        "Casual",
-        "Indie",
-        "Strategy"
-      ],
-      "modes": [
-        "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 2392710,
-      "name": "Tactics: Setting Sun",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2392710/d2014ebd093f21ed2e679208ba729ac112fd0c69/header.jpg?t=1794668779",
-      "release": "Nov 14, 2026",
-      "comingSoon": false,
-      "price": "$19.99",
+      "price": "$2.99",
       "genres": [
         "Strategy"
       ],
       "modes": [
         "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 3552240,
-      "name": "LEGRADA",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3552240/63fa77c1cdee550db6250cf940b5f66ac81c0b64/header.jpg?t=1794666972",
-      "release": "Nov 14, 2026",
-      "comingSoon": false,
-      "price": "$3.99",
-      "genres": [
-        "Casual",
-        "Indie",
-        "Massively Multiplayer"
-      ],
-      "modes": [
-        "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5393800,
-      "name": "Grandparadox",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5393800/f159d9be8d10f272b1686c87868570dffb60293f/header.jpg?t=1794666141",
-      "release": "Nov 14, 2026",
-      "comingSoon": false,
-      "price": "Free",
-      "genres": [
-        "Casual",
-        "Indie",
-        "Strategy"
-      ],
-      "modes": [
-        "Co-op",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5247920,
-      "name": "Forgotten Horizons",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5247920/0108944313742a73bd9859a039f36edff659e027/header.jpg?t=1794664986",
-      "release": "Nov 14, 2026",
-      "comingSoon": false,
-      "price": "$1.48",
-      "genres": [
-        "Adventure"
-      ],
-      "modes": [
-        "Co-op",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 4945780,
-      "name": "Squadron 404",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4945780/26119509de3a17f9bc621832ad276c156c7be97a/header.jpg?t=1794658059",
-      "release": "Nov 14, 2026",
-      "comingSoon": false,
-      "price": "$5.99",
-      "genres": [
-        "Action",
-        "Indie"
-      ],
-      "modes": [
-        "Co-op",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5458630,
-      "name": "No More Monsters",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5458630/a70021d7b4f057bf9cba8f8d09f2e9299f0dbb52/header.jpg?t=1794654372",
-      "release": "Nov 14, 2026",
-      "comingSoon": false,
-      "price": "$4.49",
-      "genres": [
-        "Action",
-        "Indie"
-      ],
-      "modes": [
-        "Co-op",
         "Multi-player"
       ]
     }
