@@ -1,48 +1,29 @@
 {
-  "scannedAt": "2026-11-15T18:51:54.473Z",
+  "scannedAt": "2026-11-16T22:01:50.643Z",
   "source": "Steam featured New Releases list",
   "games": [
     {
-      "id": 4604010,
-      "name": "BEAST",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4604010/f27fa050e6f8c19d43b5dc63a6ce04d777dcee59/header.jpg?t=1794743120",
-      "release": "Nov 15, 2026",
+      "id": 5068940,
+      "name": "Swirl Together",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5068940/ce39aa1883e620c755f8ceb5790850872e6e2cbf/header.jpg?t=1794864158",
+      "release": "Nov 16, 2026",
+      "comingSoon": false,
+      "price": "$9.99",
+      "genres": [
+        "Simulation"
+      ],
+      "modes": [
+        "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5115660,
+      "name": "Left4Sol",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5115660/a75c912a07184a090a03fd63cba64af404f2e114/header.jpg?t=1794861842",
+      "release": "Nov 16, 2026",
       "comingSoon": false,
       "price": "Free",
-      "genres": [
-        "Simulation",
-        "Strategy",
-        "Free To Play"
-      ],
-      "modes": [
-        "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5024380,
-      "name": "Sangoku Bump",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5024380/82e7ec50ea598181dd04da24fcae48ecaf33d405/header.jpg?t=1794739406",
-      "release": "Nov 15, 2026",
-      "comingSoon": false,
-      "price": "$8.99",
-      "genres": [
-        "Casual",
-        "Indie",
-        "Strategy"
-      ],
-      "modes": [
-        "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 2563090,
-      "name": "Hume Index",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2563090/7bfafced9076540733d529f60417ad26c2d91e9f/header.jpg?t=1794737019",
-      "release": "Nov 15, 2026",
-      "comingSoon": false,
-      "price": "$7.99",
       "genres": [
         "Action",
         "Adventure",
@@ -54,114 +35,48 @@
       ]
     },
     {
-      "id": 5512840,
-      "name": "Code Red RTS",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5512840/e1ade67d7ec6cfd38275a6fc50bb22bac0f04203/header.jpg?t=1794731594",
-      "release": "Nov 15, 2026",
+      "id": 5349180,
+      "name": "Logosmancer",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5349180/a6faa1a0b0e30f4bd55d36df37729f55714001b7/header.jpg?t=1794855617",
+      "release": "Nov 16, 2026",
       "comingSoon": false,
-      "price": "Free",
+      "price": "$4.99",
       "genres": [
-        "Casual",
-        "Strategy",
-        "Free To Play"
-      ],
-      "modes": [
-        "Co-op",
-        "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 3325950,
-      "name": "Red Crucible Assault",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325950/94210d5824d16fa4e6599d7d1d43d60f1a66ecb1/header.jpg?t=1794730241",
-      "release": "Nov 15, 2026",
-      "comingSoon": false,
-      "price": "$12.74",
-      "genres": [
-        "Action"
-      ],
-      "modes": [
-        "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 2402620,
-      "name": "World Guesser",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2402620/a54e16ba49c176d34716630d5ac8c5c9c6a5dd92/header.jpg?t=1794737687",
-      "release": "Nov 15, 2026",
-      "comingSoon": false,
-      "price": "$4.49",
-      "genres": [
-        "Casual"
-      ],
-      "modes": [
-        "Co-op",
-        "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5052180,
-      "name": "Hanafuda",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5052180/eb610f66051f27bc4f3a4d1e90a5b2c1ac1406e9/header.jpg?t=1794730554",
-      "release": "Nov 14, 2026",
-      "comingSoon": false,
-      "price": "$8.49",
-      "genres": [
-        "Casual",
-        "Indie",
-        "Strategy"
-      ],
-      "modes": [
-        "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5445850,
-      "name": "Commander's Dilemma",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5445850/c7ec03f09cee3e38e7cbfbc5da37bf04b7076416/header.jpg?t=1794717801",
-      "release": "Nov 14, 2026",
-      "comingSoon": false,
-      "price": "$8.99",
-      "genres": [
-        "RPG",
-        "Simulation",
-        "Strategy"
-      ],
-      "modes": [
-        "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5471970,
-      "name": "Rubber Stamp Legend",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5471970/d996f82b882d34539ba5a0011700a0ceeccf54d4/header.jpg?t=1794717313",
-      "release": "Nov 14, 2026",
-      "comingSoon": false,
-      "price": "$3.19",
-      "genres": [
+        "Action",
         "Casual",
         "Indie"
       ],
       "modes": [
+        "Co-op",
         "PvP",
         "Multi-player"
       ]
     },
     {
-      "id": 5354240,
-      "name": "THE BACKLOG",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5354240/e3da7fa6658f8dab1370d44cf3778f023bd91919/header.jpg?t=1794716552",
-      "release": "Nov 14, 2026",
+      "id": 5126230,
+      "name": "Drawmi: Creature Collector",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5126230/5d57ce65819732b69688c422daa0b6bf86b81e5e/header.jpg?t=1794852201",
+      "release": "Nov 16, 2026",
       "comingSoon": false,
-      "price": "$6.39",
+      "price": "$5.99",
       "genres": [
-        "Casual",
+        "Adventure",
         "Indie",
+        "RPG"
+      ],
+      "modes": [
+        "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5086430,
+      "name": "Drawmi: Card Shop",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5086430/84cbd87607cea7032bc22efa5994e1dc6882e518/header.jpg?t=1794852866",
+      "release": "Nov 16, 2026",
+      "comingSoon": false,
+      "price": "$5.99",
+      "genres": [
         "Simulation"
       ],
       "modes": [
@@ -170,17 +85,19 @@
       ]
     },
     {
-      "id": 5455640,
-      "name": "RSP Ultimate Battle",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5455640/26d35cbf48bbe850666377a678a5b5c6cdcd1599/header.jpg?t=1794713955",
-      "release": "Nov 14, 2026",
+      "id": 4303400,
+      "name": "Bun G Bop",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4303400/4c82e961847a665dbf6ff03560a82481cff14dae/header.jpg?t=1794852027",
+      "release": "Nov 16, 2026",
       "comingSoon": false,
-      "price": "$2.99",
+      "price": "$4.99",
       "genres": [
-        "Strategy"
+        "Action",
+        "Adventure",
+        "Casual"
       ],
       "modes": [
-        "PvP",
+        "Co-op",
         "Multi-player"
       ]
     }
