@@ -1,32 +1,16 @@
 {
-  "scannedAt": "2026-11-16T22:01:50.643Z",
+  "scannedAt": "2026-11-17T20:55:46.330Z",
   "source": "Steam featured New Releases list",
   "games": [
     {
-      "id": 5068940,
-      "name": "Swirl Together",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5068940/ce39aa1883e620c755f8ceb5790850872e6e2cbf/header.jpg?t=1794864158",
-      "release": "Nov 16, 2026",
+      "id": 5226670,
+      "name": "Type to Survive",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5226670/936da21db4621b411cdc808e69d53550b4a1cb42/header.jpg?t=1794945336",
+      "release": "Nov 17, 2026",
       "comingSoon": false,
-      "price": "$9.99",
-      "genres": [
-        "Simulation"
-      ],
-      "modes": [
-        "Co-op",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5115660,
-      "name": "Left4Sol",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5115660/a75c912a07184a090a03fd63cba64af404f2e114/header.jpg?t=1794861842",
-      "release": "Nov 16, 2026",
-      "comingSoon": false,
-      "price": "Free",
+      "price": "$7.99",
       "genres": [
         "Action",
-        "Adventure",
         "Indie"
       ],
       "modes": [
@@ -35,48 +19,47 @@
       ]
     },
     {
-      "id": 5349180,
-      "name": "Logosmancer",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5349180/a6faa1a0b0e30f4bd55d36df37729f55714001b7/header.jpg?t=1794855617",
-      "release": "Nov 16, 2026",
+      "id": 2586050,
+      "name": "Math Time",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2586050/74ed6f5dfcb9166041d78a22fc1802fc5ec4880e/header.jpg?t=1794942038",
+      "release": "Nov 17, 2026",
       "comingSoon": false,
-      "price": "$4.99",
+      "price": "$0.99",
       "genres": [
-        "Action",
         "Casual",
         "Indie"
       ],
       "modes": [
-        "Co-op",
         "PvP",
         "Multi-player"
       ]
     },
     {
-      "id": 5126230,
-      "name": "Drawmi: Creature Collector",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5126230/5d57ce65819732b69688c422daa0b6bf86b81e5e/header.jpg?t=1794852201",
-      "release": "Nov 16, 2026",
+      "id": 1331880,
+      "name": "MOLTIVA",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1331880/502162cce255a37893956ea893389a8dd6c123da/header.jpg?t=1794941310",
+      "release": "Nov 17, 2026",
       "comingSoon": false,
-      "price": "$5.99",
+      "price": "$2.99",
       "genres": [
-        "Adventure",
+        "Casual",
         "Indie",
-        "RPG"
+        "Strategy"
       ],
       "modes": [
-        "Co-op",
+        "PvP",
         "Multi-player"
       ]
     },
     {
-      "id": 5086430,
-      "name": "Drawmi: Card Shop",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5086430/84cbd87607cea7032bc22efa5994e1dc6882e518/header.jpg?t=1794852866",
-      "release": "Nov 16, 2026",
+      "id": 5417180,
+      "name": "The Legendary Sortsmith",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5417180/8668dffc5c6b28d202896048f0447f6648b136da/header.jpg?t=1794939694",
+      "release": "Nov 17, 2026",
       "comingSoon": false,
-      "price": "$5.99",
+      "price": "$3.59",
       "genres": [
+        "Casual",
         "Simulation"
       ],
       "modes": [
@@ -85,19 +68,36 @@
       ]
     },
     {
-      "id": 4303400,
-      "name": "Bun G Bop",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4303400/4c82e961847a665dbf6ff03560a82481cff14dae/header.jpg?t=1794852027",
-      "release": "Nov 16, 2026",
+      "id": 5277780,
+      "name": "Suspect Express",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5277780/6d2d2488bc4865977fce2558fe8317b9ce781aad/header.jpg?t=1794939291",
+      "release": "Nov 17, 2026",
       "comingSoon": false,
-      "price": "$4.99",
+      "price": "$6.99",
       "genres": [
         "Action",
-        "Adventure",
-        "Casual"
+        "Indie",
+        "Strategy"
       ],
       "modes": [
-        "Co-op",
+        "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 4343470,
+      "name": "Typing Drag Racer",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4343470/999ec97e23546e43787730b2cae0af8f6073e430/header.jpg?t=1794938056",
+      "release": "Nov 17, 2026",
+      "comingSoon": false,
+      "price": "$6.79",
+      "genres": [
+        "Casual",
+        "Indie",
+        "Racing"
+      ],
+      "modes": [
+        "PvP",
         "Multi-player"
       ]
     }
