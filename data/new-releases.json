@@ -1,180 +1,32 @@
 {
-  "scannedAt": "2026-11-18T20:31:43.654Z",
+  "scannedAt": "2026-11-19T20:37:44.765Z",
   "source": "Steam featured New Releases list",
   "games": [
     {
-      "id": 4294880,
-      "name": "LevelFighters",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294880/5047c4e56f9a7a83e47d2bdafa6b2a22a0b8b598/header.jpg?t=1794896460",
-      "release": "Nov 18, 2026",
-      "comingSoon": true,
-      "price": "TBA",
+      "id": 5361610,
+      "name": "Expeditionary Sustainment Command",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5361610/573701ba4dd789a4c6db8c275ae9f35fe657ca33/header.jpg?t=1795115962",
+      "release": "Nov 19, 2026",
+      "comingSoon": false,
+      "price": "$14.99",
       "genres": [
         "Action",
-        "Casual",
-        "Indie"
-      ],
-      "modes": [
-        "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5490940,
-      "name": "Bank Vault: Tidy Up Together",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5490940/9a90fb0035f3033bd7127badc64e767f6424b3ff/header.jpg?t=1795031481",
-      "release": "Nov 18, 2026",
-      "comingSoon": false,
-      "price": "$4.49",
-      "genres": [
-        "Casual",
-        "Indie",
-        "Massively Multiplayer"
-      ],
-      "modes": [
-        "Co-op",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5533990,
-      "name": "Thanksgiving: Tidy Up Together",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5533990/3d19c6550092728e3c159a7d29fafac7fc587017/header.jpg?t=1795031468",
-      "release": "Nov 18, 2026",
-      "comingSoon": false,
-      "price": "$4.99",
-      "genres": [
-        "Casual"
-      ],
-      "modes": [
-        "Co-op",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 4884790,
-      "name": "Grave Profits",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4884790/0e45981c763b2d139f4a2f61cb3fa6f7c8e38feb/header.jpg?t=1795030113",
-      "release": "Nov 18, 2026",
-      "comingSoon": false,
-      "price": "$9.79",
-      "genres": [
-        "Indie",
         "RPG",
-        "Strategy"
-      ],
-      "modes": [
-        "Co-op",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5077280,
-      "name": "Tower of Egress",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5077280/9f601d918570bc74b876c9a7e89d6aa11e98f6ec/header.jpg?t=1795026733",
-      "release": "Nov 18, 2026",
-      "comingSoon": false,
-      "price": "$4.49",
-      "genres": [
-        "Adventure",
-        "Casual",
-        "Indie"
-      ],
-      "modes": [
-        "Co-op",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5094400,
-      "name": "Warchaic",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5094400/9be1d1c385f15013f788eb3c9232e500476f9483/header.jpg?t=1795024768",
-      "release": "Nov 18, 2026",
-      "comingSoon": false,
-      "price": "$7.64",
-      "genres": [
-        "Indie",
-        "Strategy"
-      ],
-      "modes": [
-        "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 3810590,
-      "name": "Celestial Decks",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810590/628bd60f827d74e6ecbfeb6d53f9d67042fb24fc/header.jpg?t=1795022490",
-      "release": "Nov 18, 2026",
-      "comingSoon": false,
-      "price": "Free",
-      "genres": [
-        "Strategy",
-        "Free To Play"
-      ],
-      "modes": [
-        "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 2772330,
-      "name": "Goblington",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772330/98fa8fa497a4470c0157b24c9f0c11abbc197b9c/header.jpg?t=1795021092",
-      "release": "Nov 18, 2026",
-      "comingSoon": false,
-      "price": "$11.24",
-      "genres": [
-        "Indie",
-        "RPG",
-        "Strategy"
-      ],
-      "modes": [
-        "Co-op",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5518050,
-      "name": "Find The ZTA VI CD",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5518050/5c9707212e58e5bb11a1217584c123eb8bf832d8/header.jpg?t=1795019606",
-      "release": "Nov 18, 2026",
-      "comingSoon": false,
-      "price": "$3.19",
-      "genres": [
-        "Casual",
-        "Indie"
-      ],
-      "modes": [
-        "Co-op",
-        "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5511570,
-      "name": "Space Golf - A golf game in space...",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5511570/f273c9297bc91e84bcf482c04935e3ed957af8bc/header.jpg?t=1795019233",
-      "release": "Nov 18, 2026",
-      "comingSoon": false,
-      "price": "$2.24",
-      "genres": [
-        "Casual",
-        "Indie",
         "Simulation"
       ],
       "modes": [
+        "Co-op",
         "PvP",
         "Multi-player"
       ]
     },
     {
-      "id": 4450600,
-      "name": "Crackheads",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4450600/e8ec00895e5d1af512cbcdb56e8803771ea69643/header.jpg?t=1795019158",
-      "release": "Nov 18, 2026",
+      "id": 4750760,
+      "name": "La Agencia del Riel",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4750760/120bd7c1aadec8b99ac787425d0763558f10b6b6/header.jpg?t=1795110939",
+      "release": "Nov 19, 2026",
       "comingSoon": false,
-      "price": "$3.74",
+      "price": "$7.00",
       "genres": [
         "Action",
         "Adventure",
@@ -182,7 +34,56 @@
       ],
       "modes": [
         "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 2878260,
+      "name": "STARDUSTER",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2878260/946d4e536171fedc3bda7d70fd6f5ecb78734106/header.jpg?t=1795107622",
+      "release": "Nov 19, 2026",
+      "comingSoon": false,
+      "price": "$6.79",
+      "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+      ],
+      "modes": [
         "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5510960,
+      "name": "ShieldMan",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5510960/ea1b4334a70b35dbbd631fca367ca2a2c60e3e7d/header.jpg?t=1795117387",
+      "release": "Nov 19, 2026",
+      "comingSoon": false,
+      "price": "$1.34",
+      "genres": [
+        "Action",
+        "Indie"
+      ],
+      "modes": [
+        "Co-op",
+        "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5183870,
+      "name": "Capybara Street Vendor",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5183870/c8a06e8978c817136a3a004abda7b495613a3205/header.jpg?t=1795104074",
+      "release": "Nov 19, 2026",
+      "comingSoon": false,
+      "price": "$1.79",
+      "genres": [
+        "Casual",
+        "Indie"
+      ],
+      "modes": [
+        "Co-op",
         "Multi-player"
       ]
     }
