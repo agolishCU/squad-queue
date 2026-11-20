@@ -1,32 +1,46 @@
 {
-  "scannedAt": "2026-11-19T20:37:44.765Z",
+  "scannedAt": "2026-11-20T20:20:49.353Z",
   "source": "Steam featured New Releases list",
   "games": [
     {
-      "id": 5361610,
-      "name": "Expeditionary Sustainment Command",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5361610/573701ba4dd789a4c6db8c275ae9f35fe657ca33/header.jpg?t=1795115962",
-      "release": "Nov 19, 2026",
+      "id": 4939030,
+      "name": "Motion De Censure",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4939030/d0663b253776d183448d9d5bb1b9ead2c7bbfcfd/header.jpg?t=1795202055",
+      "release": "Nov 20, 2026",
       "comingSoon": false,
-      "price": "$14.99",
+      "price": "$13.49",
       "genres": [
-        "Action",
-        "RPG",
-        "Simulation"
+        "Strategy"
       ],
       "modes": [
-        "Co-op",
         "PvP",
         "Multi-player"
       ]
     },
     {
-      "id": 4750760,
-      "name": "La Agencia del Riel",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4750760/120bd7c1aadec8b99ac787425d0763558f10b6b6/header.jpg?t=1795110939",
-      "release": "Nov 19, 2026",
+      "id": 5371870,
+      "name": "Afterpub",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5371870/edaff716de169366633ff02302c2c4aa491d8c0e/header.jpg?t=1795196125",
+      "release": "Nov 20, 2026",
       "comingSoon": false,
-      "price": "$7.00",
+      "price": "$3.74",
+      "genres": [
+        "Action",
+        "Casual",
+        "Racing"
+      ],
+      "modes": [
+        "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5093180,
+      "name": "Cave Diving With Friends",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5093180/c6ef6f269f8dd6a912f093fde4ecdf15488e064f/header.jpg?t=1795193423",
+      "release": "Nov 20, 2026",
+      "comingSoon": false,
+      "price": "$5.59",
       "genres": [
         "Action",
         "Adventure",
@@ -38,49 +52,49 @@
       ]
     },
     {
-      "id": 2878260,
-      "name": "STARDUSTER",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2878260/946d4e536171fedc3bda7d70fd6f5ecb78734106/header.jpg?t=1795107622",
-      "release": "Nov 19, 2026",
+      "id": 5531300,
+      "name": "Christmas Workshop: Tidy Up Together",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5531300/14a60711c80fd3587c2583c9962e6d7681e9053c/header.jpg?t=1795193394",
+      "release": "Nov 20, 2026",
       "comingSoon": false,
-      "price": "$6.79",
+      "price": "$4.99",
       "genres": [
-        "Action",
         "Casual",
-        "Indie"
-      ],
-      "modes": [
-        "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5510960,
-      "name": "ShieldMan",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5510960/ea1b4334a70b35dbbd631fca367ca2a2c60e3e7d/header.jpg?t=1795117387",
-      "release": "Nov 19, 2026",
-      "comingSoon": false,
-      "price": "$1.34",
-      "genres": [
-        "Action",
         "Indie"
       ],
       "modes": [
         "Co-op",
-        "PvP",
         "Multi-player"
       ]
     },
     {
-      "id": 5183870,
-      "name": "Capybara Street Vendor",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5183870/c8a06e8978c817136a3a004abda7b495613a3205/header.jpg?t=1795104074",
-      "release": "Nov 19, 2026",
+      "id": 5388330,
+      "name": "Splatterworks",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5388330/64d7c14719c4f62bbcff3dbcc64070410136c191/header.jpg?t=1795186922",
+      "release": "Nov 20, 2026",
       "comingSoon": false,
-      "price": "$1.79",
+      "price": "$12.74",
       "genres": [
+        "Action",
         "Casual",
         "Indie"
+      ],
+      "modes": [
+        "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 4967770,
+      "name": "Fast Point",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4967770/f768bca587cc6e27c964932d5d978ba884d451bf/header.jpg?t=1795186893",
+      "release": "Nov 20, 2026",
+      "comingSoon": false,
+      "price": "$14.99",
+      "genres": [
+        "Casual",
+        "Indie",
+        "Massively Multiplayer"
       ],
       "modes": [
         "Co-op",
