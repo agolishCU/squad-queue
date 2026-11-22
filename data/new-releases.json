@@ -1,64 +1,17 @@
 {
-  "scannedAt": "2026-11-21T19:16:26.516Z",
+  "scannedAt": "2026-11-22T19:41:03.446Z",
   "source": "Steam featured New Releases list",
   "games": [
     {
-      "id": 4288310,
-      "name": "Blobby Bash",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4288310/18ffd6b3289b4e76d86ec3e3fcca92a16f509dce/header.jpg?t=1795280773",
-      "release": "Nov 21, 2026",
+      "id": 4761730,
+      "name": "Nano Reef",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4761730/e1c2f3e1fce383ffbcc7a2739a6ddbe61b281de7/header.jpg?t=1795368907",
+      "release": "Nov 22, 2026",
       "comingSoon": false,
-      "price": "$3.19",
-      "genres": [
-        "Action",
-        "Casual"
-      ],
-      "modes": [
-        "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 4623890,
-      "name": "Boom Rush: Desert OPS",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4623890/50b36617baed27b3f0e9dead806ca6db3f067143/header.jpg?t=1795276086",
-      "release": "Nov 21, 2026",
-      "comingSoon": false,
-      "price": "$4.79",
-      "genres": [
-        "Action"
-      ],
-      "modes": [
-        "Co-op",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5251630,
-      "name": "Rule 34 Place",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5251630/e6a7b244af7e15d7662d84fab7dfabb22f852dda/header.jpg?t=1795268943",
-      "release": "Nov 21, 2026",
-      "comingSoon": false,
-      "price": "Free",
+      "price": "$3.39",
       "genres": [
         "Casual",
-        "Massively Multiplayer",
-        "Free To Play"
-      ],
-      "modes": [
-        "Co-op",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5528190,
-      "name": "Zephyr's World",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5528190/6f815efec2933316110f9aa6852bd38589708bce/header.jpg?t=1795266253",
-      "release": "Nov 21, 2026",
-      "comingSoon": false,
-      "price": "$4.99",
-      "genres": [
-        "Casual",
+        "Indie",
         "Simulation"
       ],
       "modes": [
@@ -67,104 +20,225 @@
       ]
     },
     {
-      "id": 5256600,
-      "name": "King's : The Eight Tribes",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5256600/3097ff152429dfcf3f188fa62d12a3e0ce4ae0ea/header.jpg?t=1795258200",
-      "release": "Nov 21, 2026",
+      "id": 5001650,
+      "name": "blorbit",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5001650/9762ef1f9e865b694056a1676079344be4a0f416/header.jpg?t=1795357225",
+      "release": "Nov 22, 2026",
       "comingSoon": false,
-      "price": "Free",
+      "price": "$9.89",
       "genres": [
         "Action",
-        "Adventure",
-        "Massively Multiplayer"
+        "Casual",
+        "Indie"
       ],
       "modes": [
+        "Co-op",
         "PvP",
-        "MMO",
         "Multi-player"
       ]
     },
     {
-      "id": 5434200,
-      "name": "TRIROAD",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5434200/b8bd0f9b8e1213724a28b7eeb9d9cf6a8e3ec5a1/header.jpg?t=1795255167",
-      "release": "Nov 21, 2026",
+      "id": 5469940,
+      "name": "Pawn Shop Together",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5469940/b6263fcef1bd3cf3f1f129a61e05f6e6e1c5182c/header.jpg?t=1795355776",
+      "release": "Nov 22, 2026",
       "comingSoon": false,
-      "price": "$5.94",
+      "price": "$3.59",
+      "genres": [
+        "Casual",
+        "Indie",
+        "Simulation"
+      ],
+      "modes": [
+        "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5277480,
+      "name": "República do Caos",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5277480/1ebee5312c915d16fd953d8c709c8c9afc959484/header.jpg?t=1795350814",
+      "release": "Nov 22, 2026",
+      "comingSoon": false,
+      "price": "$3.19",
+      "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+      ],
+      "modes": [
+        "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5542640,
+      "name": "WeirdBus",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5542640/900f2748816281cac97787fbfb9afc052303e48b/header.jpg?t=1795346552",
+      "release": "Nov 22, 2026",
+      "comingSoon": false,
+      "price": "$0.60",
+      "genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "modes": [
+        "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5499750,
+      "name": "It’s Table Time",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5499750/72f312934660aa29a3607064820f75086b89a90b/header.jpg?t=1795346548",
+      "release": "Nov 22, 2026",
+      "comingSoon": false,
+      "price": "$5.03",
       "genres": [
         "Casual",
         "Indie",
         "Strategy"
       ],
       "modes": [
+        "Co-op",
         "PvP",
         "Multi-player"
       ]
     },
     {
-      "id": 5490920,
-      "name": "Infinite Sudoku",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5490920/cbd803801eb5a633ad77d64b8e8eb4eaf65bfb1b/header.jpg?t=1795248318",
-      "release": "Nov 21, 2026",
-      "comingSoon": false,
-      "price": "$4.79",
-      "genres": [
-        "Casual",
-        "Indie"
-      ],
-      "modes": [
-        "Co-op",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5403060,
-      "name": "Everything Simulator",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5403060/de2008bad1a0c63b95e44babb9496e769860474a/header.jpg?t=1795244117",
-      "release": "Nov 20, 2026",
+      "id": 5081270,
+      "name": "Express Lane",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5081270/02be57d9ee2c6fa16c29293d12e723f5da435fb9/header.jpg?t=1795342915",
+      "release": "Nov 22, 2026",
       "comingSoon": false,
       "price": "$4.99",
       "genres": [
-        "Action",
-        "Casual",
-        "Indie"
-      ],
-      "modes": [
-        "Co-op",
-        "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5087470,
-      "name": "Party Link",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5087470/0f79355d4d3876114ccab5f77f91505a8e363fbf/header.jpg?t=1795246621",
-      "release": "Nov 20, 2026",
-      "comingSoon": false,
-      "price": "Free",
-      "genres": [
-        "Massively Multiplayer",
-        "Free To Play"
-      ],
-      "modes": [
-        "Co-op",
-        "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5505740,
-      "name": "‌Super Puzzle‌",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5505740/491e7d58ed4939bade02a343682dc4374c1de3c7/header.jpg?t=1795237152",
-      "release": "Nov 20, 2026",
-      "comingSoon": false,
-      "price": "$1.99",
-      "genres": [
-        "Casual",
         "Indie",
         "Simulation"
       ],
       "modes": [
+        "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5191120,
+      "name": "PERI.CO",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5191120/05716b623368b0b4aa263373181d18a04225e722/header.jpg?t=1795337421",
+      "release": "Nov 22, 2026",
+      "comingSoon": false,
+      "price": "$4.89",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Casual"
+      ],
+      "modes": [
+        "Co-op",
+        "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5377120,
+      "name": "Purplestar",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5377120/0ae59a2490de68d92737d38665021da04542df61/header.jpg?t=1795336104",
+      "release": "Nov 22, 2026",
+      "comingSoon": false,
+      "price": "$2.00",
+      "genres": [
+        "Adventure",
+        "Casual",
+        "Indie"
+      ],
+      "modes": [
+        "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5208650,
+      "name": "Eko36 and the gang",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5208650/06ba1ae3955e51957cdea0a20751c0eb8c37cb70/header.jpg?t=1795334788",
+      "release": "Nov 22, 2026",
+      "comingSoon": false,
+      "price": "$8.99",
+      "genres": [
+        "Casual",
+        "Indie",
+        "Racing"
+      ],
+      "modes": [
+        "Co-op",
+        "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5379430,
+      "name": "Stormtide Skies",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5379430/208c3f30821c19fca8de2e45ef6b012062238dd4/header.jpg?t=1795323542",
+      "release": "Nov 21, 2026",
+      "comingSoon": false,
+      "price": "$9.99",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+      ],
+      "modes": [
+        "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5029710,
+      "name": "mechakucha pakurion",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5029710/abcdc3fc88d1d49e431b59799809f16d5a1b1373/header.jpg?t=1795320809",
+      "release": "Nov 21, 2026",
+      "comingSoon": false,
+      "price": "$3.66",
+      "genres": [
+        "Casual",
+        "Indie",
+        "RPG"
+      ],
+      "modes": [
+        "Co-op",
+        "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5111020,
+      "name": "Lost Gateways",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5111020/d720dae7125bf21c86095dd17be54f6418e5c7e1/header.jpg?t=1795308056",
+      "release": "Nov 21, 2026",
+      "comingSoon": false,
+      "price": "Free",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+      ],
+      "modes": [
+        "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5506620,
+      "name": "Slots of Chaos: Melee Arena",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5506620/fe199c16e112f9a73afaa673269991483d8d18e5/header.jpg?t=1795307917",
+      "release": "Nov 21, 2026",
+      "comingSoon": false,
+      "price": "$5.99",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "modes": [
+        "Co-op",
         "PvP",
         "Multi-player"
       ]
