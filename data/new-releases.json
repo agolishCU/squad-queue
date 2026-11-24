@@ -1,48 +1,32 @@
 {
-  "scannedAt": "2026-11-23T23:53:47.577Z",
+  "scannedAt": "2026-11-24T22:26:38.960Z",
   "source": "Steam featured New Releases list",
   "games": [
     {
-      "id": 3026390,
-      "name": "Bomb And Conquer",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3026390/ae02c42658827acbce5c0f0351c7ed95765f76d7/header.jpg?t=1795468106",
-      "release": "Nov 23, 2026",
+      "id": 2716120,
+      "name": "Kaetram",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2716120/header.jpg?t=1795553343",
+      "release": "Nov 24, 2026",
       "comingSoon": false,
       "price": "Free",
       "genres": [
-        "Action",
-        "Casual",
-        "Indie"
+        "Indie",
+        "Massively Multiplayer"
       ],
       "modes": [
         "Co-op",
         "PvP",
+        "MMO",
         "Multi-player"
       ]
     },
     {
-      "id": 5510730,
-      "name": "Arena Mayhem",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5510730/54cc907be20f7094b36849004192cb4664a90bd3/header.jpg?t=1795466159",
-      "release": "Nov 23, 2026",
+      "id": 5516980,
+      "name": "Tidy Up: Bricks n Blocks",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5516980/3f3e4572005477fa117fca2306855712b4048e24/header.jpg?t=1795552755",
+      "release": "Nov 24, 2026",
       "comingSoon": false,
-      "price": "Free",
-      "genres": [
-        "Action",
-        "Free To Play"
-      ],
-      "modes": [
-        "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5531480,
-      "name": "Goldbar In A Shitstack",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5531480/109b71fc4e87e9857455d538cfbf2dce0aae550c/header.jpg?t=1795457070",
-      "release": "Nov 23, 2026",
-      "comingSoon": false,
-      "price": "$4.49",
+      "price": "$3.24",
       "genres": [
         "Casual",
         "Indie",
@@ -54,56 +38,104 @@
       ]
     },
     {
-      "id": 5113690,
-      "name": "Blendead",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5113690/783bde7b17d3dd38d3c5351cbad24e67fc5f01c9/header.jpg?t=1795456787",
-      "release": "Nov 23, 2026",
+      "id": 5523630,
+      "name": "Eleven FC Manager",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5523630/37e08ca9c83802b0bfea35d2673ca8b63107e70a/header.jpg?t=1795545562",
+      "release": "Nov 24, 2026",
       "comingSoon": false,
-      "price": "$5.94",
+      "price": "$9.99",
       "genres": [
-        "Action",
-        "Casual",
-        "Indie"
-      ],
-      "modes": [
-        "Co-op",
-        "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5179660,
-      "name": "Armorer: Tidy Up the Armory Before Dawn",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5179660/3d7d454e1b063ed01244b57b1691806c05fa9584/header.jpg?t=1795456122",
-      "release": "Nov 23, 2026",
-      "comingSoon": false,
-      "price": "$3.74",
-      "genres": [
-        "Casual",
-        "Indie",
-        "Simulation"
-      ],
-      "modes": [
-        "Co-op",
-        "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5159010,
-      "name": "Overboost: Carball",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5159010/ba399a86f8511e0be57bb357a8f4ffd3eb885de9/header.jpg?t=1795471769",
-      "release": "Nov 23, 2026",
-      "comingSoon": false,
-      "price": "Free",
-      "genres": [
-        "Action",
+        "Simulation",
         "Sports",
-        "Free To Play"
+        "Strategy"
+      ],
+      "modes": [
+        "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 4078600,
+      "name": "PiPu Party",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078600/1ee4ce8cc495c5443a4804fec4e3d8e50a0bcd5b/header.jpg?t=1795543543",
+      "release": "Nov 24, 2026",
+      "comingSoon": false,
+      "price": "$6.79",
+      "genres": [
+        "Action",
+        "Indie"
       ],
       "modes": [
         "Co-op",
         "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5323210,
+      "name": "Dead Last",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5323210/8f40e8a2969185e62a2cab7b0064dd2bdeee7f23/header.jpg?t=1795543209",
+      "release": "Nov 24, 2026",
+      "comingSoon": false,
+      "price": "$4.95",
+      "genres": [
+        "Action",
+        "Indie"
+      ],
+      "modes": [
+        "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5472080,
+      "name": "SHRED A BILLION",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5472080/4584864fda356b4d391b69cc2c0ea73bc286db3d/header.jpg?t=1795542942",
+      "release": "Nov 24, 2026",
+      "comingSoon": false,
+      "price": "$5.59",
+      "genres": [
+        "Casual",
+        "Indie",
+        "Simulation"
+      ],
+      "modes": [
+        "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 4748830,
+      "name": "D.A.M.N!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4748830/ae1e414c3959c72157ed5291b55dc3834a1b34a7/header.jpg?t=1795542938",
+      "release": "Nov 24, 2026",
+      "comingSoon": false,
+      "price": "$12.74",
+      "genres": [
+        "Casual",
+        "Indie",
+        "Strategy"
+      ],
+      "modes": [
+        "Co-op",
+        "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5527800,
+      "name": "No Asteroids",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5527800/d62c870790fcce767edd856ce3e7e6df2a9b1395/header.jpg?t=1795542925",
+      "release": "Nov 24, 2026",
+      "comingSoon": false,
+      "price": "$6.39",
+      "genres": [
+        "Casual",
+        "Indie",
+        "Simulation"
+      ],
+      "modes": [
+        "Co-op",
         "Multi-player"
       ]
     }
