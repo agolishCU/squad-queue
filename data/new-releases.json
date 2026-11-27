@@ -1,16 +1,17 @@
 {
-  "scannedAt": "2026-11-26T21:32:17.261Z",
+  "scannedAt": "2026-11-27T21:17:17.549Z",
   "source": "Steam featured New Releases list",
   "games": [
     {
-      "id": 2331930,
-      "name": "VOIDRUSH",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2331930/76a4f953111e45b9800a1d336fa488a970ec5122/header.jpg?t=1795717383",
-      "release": "Nov 26, 2026",
+      "id": 5577430,
+      "name": "Bedtime Survivors",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5577430/d76f1a0259b7bc8a57848d1f0ee8caa3fda8345f/header.jpg?t=1795808162",
+      "release": "Nov 27, 2026",
       "comingSoon": false,
-      "price": "Free",
+      "price": "$3.99",
       "genres": [
         "Action",
+        "Casual",
         "Indie"
       ],
       "modes": [
@@ -19,119 +20,88 @@
       ]
     },
     {
-      "id": 5518570,
-      "name": "TrapRush",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5518570/e5514d9fadf89626fd120be895dbd43540648e52/header.jpg?t=1795716979",
-      "release": "Nov 26, 2026",
+      "id": 5552070,
+      "name": "HexStermination",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5552070/866d2f4688c6a51f0422557a5bdeee80ba478631/header.jpg?t=1795806544",
+      "release": "Nov 27, 2026",
+      "comingSoon": false,
+      "price": "$5.99",
+      "genres": [
+        "Indie",
+        "Strategy"
+      ],
+      "modes": [
+        "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5190390,
+      "name": "Yule Dads",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5190390/56766972a0ac91748e1446e6486694352cab544b/header.jpg?t=1795802423",
+      "release": "Nov 27, 2026",
+      "comingSoon": false,
+      "price": "$5.59",
+      "genres": [
+        "Action",
+        "Casual",
+        "Indie"
+      ],
+      "modes": [
+        "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 5304760,
+      "name": "Scentkeeper: Tidy Up the Perfume Archive!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5304760/c53a95359330b1fc56fffac96403fc535743abf1/header.jpg?t=1795802406",
+      "release": "Nov 27, 2026",
+      "comingSoon": false,
+      "price": "$4.49",
+      "genres": [
+        "Casual",
+        "Indie",
+        "Simulation"
+      ],
+      "modes": [
+        "Co-op",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 4606530,
+      "name": "Pushlings",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4606530/c193d14ae81660172379494f80d1463349e945e5/header.jpg?t=1795800644",
+      "release": "Nov 27, 2026",
       "comingSoon": false,
       "price": "Free",
       "genres": [
-        "Casual",
+        "Action",
+        "Indie",
+        "Free To Play"
+      ],
+      "modes": [
+        "PvP",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": 4601360,
+      "name": "Magic Quest Online",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4601360/a7ba83723337df86edb4de06ed2a90cce9c9ccfa/header.jpg?t=1795798186",
+      "release": "Nov 27, 2026",
+      "comingSoon": false,
+      "price": "Free",
+      "genres": [
+        "Adventure",
         "Indie",
         "Massively Multiplayer"
       ],
       "modes": [
+        "Co-op",
         "PvP",
         "MMO",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 4987170,
-      "name": "Shole Soccer",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4987170/a3552f3837bfb6ed8b13157d6fb060b249724b06/header.jpg?t=1795718050",
-      "release": "Nov 26, 2026",
-      "comingSoon": false,
-      "price": "$4.24",
-      "genres": [
-        "Indie",
-        "Sports"
-      ],
-      "modes": [
-        "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5555020,
-      "name": "Backgammon",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5555020/8a7676d7232885f5596aa860966b242240f05428/header.jpg?t=1795716081",
-      "release": "Nov 26, 2026",
-      "comingSoon": false,
-      "price": "$8.99",
-      "genres": [
-        "Casual",
-        "Indie",
-        "Strategy"
-      ],
-      "modes": [
-        "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 871460,
-      "name": "Beryl",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/871460/5193eb7de2b8e0e26f45022522af00be8acd3c4e/header.jpg?t=1795715517",
-      "release": "Nov 26, 2026",
-      "comingSoon": false,
-      "price": "Free",
-      "genres": [
-        "Action",
-        "Indie",
-        "RPG"
-      ],
-      "modes": [
-        "Co-op",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 4736720,
-      "name": "RBM Studio's Baetis Campaign",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4736720/47c4041f8b8c2f5aac0083768538e55eb3902f51/header.jpg?t=1795712710",
-      "release": "Nov 26, 2026",
-      "comingSoon": false,
-      "price": "$4.99",
-      "genres": [
-        "Strategy"
-      ],
-      "modes": [
-        "PvP",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5446860,
-      "name": "Eyelord Returns",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5446860/e2eb3458da4a4e8e4c1c57a70563809b1806c516/header.jpg?t=1795715308",
-      "release": "Nov 26, 2026",
-      "comingSoon": false,
-      "price": "$6.39",
-      "genres": [
-        "Action",
-        "Casual",
-        "Indie"
-      ],
-      "modes": [
-        "Co-op",
-        "Multi-player"
-      ]
-    },
-    {
-      "id": 5497610,
-      "name": "SJM - Ski Jumping Manager",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5497610/be638191fb3b6dbd49583576e5852567dbb8c305/header.jpg?t=1795711733",
-      "release": "Nov 26, 2026",
-      "comingSoon": false,
-      "price": "$19.99",
-      "genres": [
-        "Indie",
-        "Simulation",
-        "Sports"
-      ],
-      "modes": [
-        "PvP",
         "Multi-player"
       ]
     }
